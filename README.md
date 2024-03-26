@@ -65,7 +65,7 @@
 
 **Cadastro de Questões**
 
-> Como cliente, desejo que a equipe de desenvolvimento cadastre questões
+> Como cliente, desejo que a equipe de desenvolvimento cadastre 50 questões
 > com apenas uma alternativa correta, dentre duas opções, referentes aos
 > temas abordados no portal.
 
