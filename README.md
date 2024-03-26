@@ -1,4 +1,4 @@
-## ***Backlog do Produto - Aplicação Web de instruções para desenvolvimento de projetos ágeis (SCRUM)***
+## ***Backlog do Produto - Aplicação Web de Instruções para Desenvolvimento de Projetos Ágeis (SCRUM)***
 
 **Cadastro de Usuário**
 
@@ -65,9 +65,9 @@
 
 **Cadastro de Questões**
 
-> Como cliente, desejo que a equipe de desenvolvimento cadastre questões
-> com alternativas verdadeiras ou falsas referentes aos temas abordados
-> no portal.
+> Como cliente, desejo que a equipe de desenvolvimento cadastre 50 questões
+> com apenas uma alternativa correta, dentre duas opções, referentes aos
+> temas abordados no portal.
 
 **Geração de Página com Questões Aleatórias**
 
