@@ -66,8 +66,8 @@
 **Cadastro de Questões**
 
 > Como cliente, desejo que a equipe de desenvolvimento cadastre questões
-> com alternativas verdadeiras ou falsas referentes aos temas abordados
-> no portal.
+> com apenas uma alternativa correta, dentre duas opções, referentes aos
+> temas abordados no portal.
 
 **Geração de Página com Questões Aleatórias**
 
