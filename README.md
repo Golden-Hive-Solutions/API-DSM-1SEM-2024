@@ -1,4 +1,4 @@
-## ***Backlog do Produto - Aplicação Web de instruções para desenvolvimento de projetos ágeis (SCRUM)***
+## ***Backlog do Produto - Aplicação Web de Instruções para Desenvolvimento de Projetos Ágeis (SCRUM)***
 
 **Cadastro de Usuário**
 
