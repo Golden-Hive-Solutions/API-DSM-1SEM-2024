@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>
-<a  href="vazio">Entrega das Sprints</a> | <a  href="vazio">Organização</a> | <a  href="vazio">User Story</a> | <a  href="vazio">Backlog do Produto</a> | <a  href="vazio">Burndown</a> | <a  href="vazio">Instalação</a> | <a  href="vazio">Wireframe</a> | <a  href="vazio">Equipe</a> | <a  href="vazio">Requisitos do Cliente</a>
+<a  href="vazio">Entrega das Sprints</a> | <a  href="vazio">Organização</a> | <a  href="vazio">User Story</a> | <a  href="vazio">Backlog do Produto</a> | <a  href="vazio">Burndown</a> | <a  href="vazio">Wireframe</a> | <a  href="vazio">Equipe</a> | <a  href="vazio">Requisitos do Cliente</a>
 </h1>
 </div>
 
