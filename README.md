@@ -43,13 +43,11 @@ Em Construção
 
 # :scroll: Requisitos do Cliente
 
-O **Requisitos do Cliente**:
+<a  href="API 2024 DSM1.pdf">**Requisitos do Cliente**</a>
 
-<a  href="./docs/Requisitos de Cliente 1DSM - 2023-2.pdf">Requisitos do Cliente</a>
+# :bust_in_silhouette: User Stories
 
-# :bust_in_silhouette: UserStories
-
-[![UserSotries](./imgs/UserStories.png)](./imgs/UserStories.png)
+[![User Stories](./imgs/UserStories.png)](./imgs/UserStories.png)
 
 ## :wrench: Tecnologias Utilizadas
 
