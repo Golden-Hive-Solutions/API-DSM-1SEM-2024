@@ -6,7 +6,27 @@
 </h1>
 </div>
 
-## ***Backlog do Produto - Aplicação de Instruções para Desenvolvimento de Projetos Ágeis (SCRUM)***
+# :pencil:Sobre o Projeto
+
+“Sistema web desenvolvido pela **Golden Hive Solutions**, com o propósito didático de apresentar a metodologia ágil **Scrum**. A aplicação inclui um formulário de avaliação e a geração de certificados. O foco do projeto foi criar uma plataforma intuitiva e acessível, atendendo às necessidades do usuário final.”
+
+### :pushpin:Status do Projeto: Em Andamento
+
+# :bookmark_tabs: Entregas de Sprints
+
+Os entregáveis serão realizados conforme as datas previamente acordadas com o cliente, acompanhados de um relatório completo do progresso alcançado durante as sprints.
+
+| Sprint  | Previsão de Entrega   | Status                        | Histórico                                      |
+| ------- | --------------------- | ----------------------------- | ---------------------------------------------- |
+| :one:   | :calendar: 17/04/2024 | :yellow_square: Em Andamento | :round_pushpin: [Ver Relatório](./Sprint01.md) |
+| :two:   | :calendar: 15/05/2024 | :red_square: Pendente | :round_pushpin: [Ver Relatório](./Sprint02.md) |
+| :three: | :calendar: 12/06/2024 | :red_square: Pendente | :round_pushpin: [Ver Relatório](./sprint03.md) |
+
+# :clipboard: Organização
+
+Em Construção
+
+# :triangular_flag_on_post: Backlog do Produto
 
 | Prioridade | Task                                      | User Story                                                   | Critérios de Aceitação                                                                                                                                                                     |
 |------------|-------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,3 +40,54 @@
 | Alta :red_square:      | Documentação no GitHub                  | Como equipe de desenvolvimento, desejo documentar o projeto no GitHub conforme as diretrizes estabelecidas.            | ► Criação de repositório contendo código fonte de cada sprint. <br>► Descrição detalhada do projeto. <br>► Link para cada entrega de sprint. <br>► Backlog do produto e de cada sprint. <br>► Requisitos do cliente (user stories). <br>► Prints das telas ou link para o portal. <br>► Burndown de cada sprint. <br>► Tecnologias utilizadas e membros da equipe. |
 | Alta :red_square:      | Integração Trello-GitHub                | Como equipe de desenvolvimento, desejo integrar o Trello ao GitHub para gerenciar o backlog do produto.               | ► Utilização do Trello para gerenciar o backlog do produto. <br>► Adição de links para problemas do GitHub em cada cartão no Trello. <br>► Movimentação dos cartões conforme o progresso das tarefas. <br>► Adição de links do pull request ao cartão no Trello. <br>► Monitoramento do progresso das tarefas no Trello. |
 | Alta :red_square:      | Tecnologias Utilizadas                  | Como equipe de desenvolvimento, desejo utilizar as tecnologias especificadas para o desenvolvimento do sistema.      | ► Utilização de JavaScript no front end e back end. <br>► Utilização de HTML e CSS para marcação e estilos. <br>► Visual responsivo utilizando CSS media queries. <br>► Prototipação de telas no Figma. <br>► Persistência dos dados no SGBD PostgreSQL. |
+
+# :scroll: Requisitos do Cliente
+
+O **Requisitos do Cliente**:
+
+<a  href="./docs/Requisitos de Cliente 1DSM - 2023-2.pdf">Requisitos do Cliente</a>
+
+# :bust_in_silhouette: UserStories
+
+[![UserSotries](./imgs/UserStories.png)](./imgs/UserStories.png)
+
+## :wrench: Tecnologias Utilizadas
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## :computer: Instalação
+
+Você precisa ter o [VsCode](https://code.visualstudio.com/download) para rodar o projeto.
+
+Você precisará rodar o comando no Git Bash para clonar o repositório.
+
+```sh
+git clone https://github.com/Golden-Hive-Solutions/API-DSM-1SEM-2024.git
+
+cd devSolutions
+
+code .
+```
+
+## :page_facing_up: Wireframe
+
+[![Wireframe](./imgs/WireFrame.PNG)](???)
+
+## :busts_in_silhouette: Equipe
+
+[![Burndown Sprint01](./imgs/equipePhoto.jpg)](./imgs/equipePhoto.jpg)
+
+| Função        | Nome                              | LinkedIn & GitHub                                                                                                                                                                                                                                                                                                                |
+| ------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Owner | Victor Hugo Dantas Carbajo                     | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.google.com/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                                    |
+| Scrum Master  | Lucas Roque Alvim Cruz                | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.google.com/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                |
+| Dev Team      | Gabriel Lima Cavalcante de Souza          | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.google.com/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                             |
+| Dev Team      | Kainé Rogers de Moura Sant'anna  | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.google.com/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                  |
+| Dev Team      | Vinícius de Luca Fujarra de Souza           | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.google.com/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                 |
+| Dev Team      | Marcos Paulo de Souza           | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/marcospaulo27) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                 |
+| Dev Team      | Maurício Oliveira Medeiros Cepinho     | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.google.com/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/) |
+| Dev Team      | Gabriel Rodrigues de Paula | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.google.com/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                          |
+| Dev Team      | Guilherme Antunes de Castro | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.google.com/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                          |
+
+##### [:rocket: Voltar ao topo ](#bookmark_tabs-entregas-de-sprints)
