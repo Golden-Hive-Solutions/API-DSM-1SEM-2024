@@ -14,6 +14,6 @@
 | Outras Tarefas    | GitHub: link para cada entrega de sprint                                                               | 🟩 Concluído     |
 | Outras Tarefas    | GitHub: prints das telas ou link para o portal                                                         | 🟩 Concluído     |
 | Outras Tarefas    | GitHub: tecnologias utilizadas e membros da equipe                                                     | 🟩 Concluído     |
-| Outras Tarefas    | GitHub: User stories com Ator, ação e motivo                                                           | 🟨 Em Andamento  |
+| Outras Tarefas    | GitHub: User stories com Ator, ação e motivo                                                           | 🟩 Concluído     |
 | Outras Tarefas    | GitHub: backlog do produto e sprint priorizado (baixa, média e alta prioridade)                        | 🟩 Concluído     |
 | Outras Tarefas    | Trello: cronograma de tarefas com link para o GitHub                                                   | 🟩 Concluído     |
