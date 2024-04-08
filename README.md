@@ -2,11 +2,11 @@
 
 <div align="center">
 <h1>
-<a  href="vazio">Entrega das Sprints</a> | <a  href="vazio">Organização</a> | <a  href="vazio">User Story</a> | <a  href="vazio">Backlog do Produto</a> | <a  href="vazio">Burndown</a> | <a  href="vazio">Wireframe</a> | <a  href="vazio">Equipe</a> | <a  href="vazio">Requisitos</a>
+<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="#paperclip-quadro-de-tarefas-trello">Trello</a> | <a  href="#bust_in_silhouette-user-stories">User Story</a> | <a  href="#triangular_flag_on_post-backlog-do-produto">Backlog do Produto</a> | <a  href="#chart_with_downwards_trend-gráfico-burndown-08042024">Burndown</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="#scroll-requisitos-do-cliente">Requisitos</a>
 </h1>
 </div>
 
-# :pencil:Sobre o Projeto
+# :pencil: Sobre o Projeto
 
 “Sistema web desenvolvido pela **Golden Hive Solutions**, com o propósito didático de apresentar a metodologia ágil **Scrum**. A aplicação inclui um formulário de avaliação e a geração de certificados. O foco do projeto foi criar uma plataforma intuitiva e acessível, atendendo às necessidades do usuário final.”
 
