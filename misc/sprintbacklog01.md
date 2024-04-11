@@ -28,7 +28,7 @@
 | 🟥 Alta           | Organização do código (CSS e JS externo; estrutura das marcações, estilos e JS)                        | 🟨 Pendente     | 8      |
 | 🟥 Alta           | Obter as questões no front end                                                                         | 🟨 Pendente     | 8      |
 | 🟨 Média          | Visual responsivo (uso de CSS média queries)                                                           | 🟨 Pendente     | 5      |
-| 🟨 Média          | Menu com links                                                                                         | 🟨 Pendente     | 5      |
+| 🟨 Média          | Modelo E-R                                                                                             | 🟨 Pendente     | 5      |
 | 🟨 Média          | GitHub: pull requests das tarefas                                                                      | 🟨 Pendente     | 5      |
 | 🟩 Baixa          | Consultas para inserir registros                                                                       | 🟨 Pendente     | 3      |
 | 🟩 Baixa          | Consultas para listar registros                                                                        | 🟨 Pendente     | 3      |
@@ -42,7 +42,7 @@
 | 🟥 Alta           | Página de questões                                                                                     | 🟨 Pendente     | 8      |
 | 🟥 Alta           | Layout                                                                                                 | 🟨 Pendente     | 8      |
 | 🟨 Média          | Arquitetura da informação                                                                              | 🟨 Pendente     | 5      |
-| 🟨 Média          | Modelo E-R                                                                                             | 🟨 Pendente     | 5      |
+| 🟨 Média          | Menu com links                                                                                         | 🟨 Pendente     | 5      |
 | 🟨 Média          | Consultas para atualizar registros                                                                     | 🟨 Pendente     | 5      |
 | 🟩 Baixa          | Gerar certificado                                                                                      | 🟨 Pendente     | 3      |
 | 🟩 Baixa          | Execução do back end em linux                                                                          | 🟨 Pendente     | 3      |
