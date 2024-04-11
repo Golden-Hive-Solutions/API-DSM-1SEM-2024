@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------------------------------------------------------------|-----------------|--------|
 | 🟥 Alta           | Cadastrar usuário no SGBD                                                                              | 🟨 Em Andamento | 8      |
 | 🟥 Alta           | Login de usuário no servidor                                                                           | 🟨 Em Andamento | 8      |
-| 🟥 Alta           | Gerar 20 questões aleatórias no servidor                                                               | 🟨 Em Andamento | 8      |
+| 🟥 Alta           | Gerar 20 questões aleatórias no servidor                                                               | 🟩 Concluído    | 8      |
 | 🟥 Alta           | Protótipos das telas no Figma                                                                          | 🟩 Concluído    | 8      |
 | 🟨 Média          | HTML (uso adequado da linguagem) - Entrega Parcial                                                     | 🟨 Em Andamento | 5      |
 | 🟨 Média          | CSS (uso adequado das propriedades CSS com classes, identificadores etc.) - Entrega Parcial            | 🟨 Em Andamento | 5      |
