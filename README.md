@@ -43,11 +43,11 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 
 # :paperclip: Quadro de Tarefas (Trello)
 
-<a  href="https://trello.com/b/AgDfKI0v/golden-hive-solutions">Clique Aqui!</a>
+<h2><a  href="https://trello.com/b/AgDfKI0v/golden-hive-solutions">► Clique Aqui para Acessar o Quadro de Tarefas ◄</a></h2>
 
 # :scroll: Requisitos do Cliente
 
-<a  href="Requisitos de Cliente 1DSM - 2024-1.pdf">Clique Aqui</a>
+<h2><a  href="Requisitos de Cliente 1DSM - 2024-1.pdf">► Clique Aqui para Acessar os Requisitos do Cliente ◄</a></h2>
 
 # :bust_in_silhouette: User Stories
 
@@ -76,7 +76,7 @@ Você precisa ter o [VsCode](https://code.visualstudio.com/download) para rodar 
 ## :page_facing_up: Wireframe
 
 [![Wireframe](./prototipagem/Protótipo%20do%20Wireframe.png)](./prototipagem/Protótipo%20do%20Wireframe.png)
-<a  href="/prototipagem/">Clique Aqui!</a>
+<h2><a  href="/prototipagem/">► Clique Aqui para Acessar Todas as Páginas do Wireframe ◄</a></h2>
 
 ## :busts_in_silhouette: Equipe
 
