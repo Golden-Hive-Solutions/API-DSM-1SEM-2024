@@ -39,7 +39,7 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 
 # :chart_with_downwards_trend: Gráfico Burndown (17/04/2024)
 
-[![Gráfico Burndown](misc/Gráfico%20Burndown%20Completo%20(Sprint%201).jpg)](misc/Gráfico%20Burndown%20Completo%20(Sprint%201).jpg)
+[![Gráfico Burndown](misc/Burndown%20Sprint%201.jpg)](misc/Burndown%20Sprint%201.jpg)
 
 # :paperclip: Quadro de Tarefas (Trello)
 
