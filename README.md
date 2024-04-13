@@ -37,9 +37,9 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 | Alta :red_square:      | Integração Trello-GitHub                | Como equipe de desenvolvimento, desejo integrar o Trello ao GitHub para gerenciar o backlog do produto.               | ► Utilização do Trello para gerenciar o backlog do produto. <br>► Adição de links para problemas do GitHub em cada cartão no Trello. <br>► Movimentação dos cartões conforme o progresso das tarefas. <br>► Adição de links do pull request ao cartão no Trello. <br>► Monitoramento do progresso das tarefas no Trello. |
 | Alta :red_square:      | Tecnologias Utilizadas                  | Como equipe de desenvolvimento, desejo utilizar as tecnologias especificadas para o desenvolvimento do sistema.      | ► Utilização de JavaScript no front end e back end. <br>► Utilização de HTML e CSS para marcação e estilos. <br>► Visual responsivo utilizando CSS media queries. <br>► Prototipação de telas no Figma. <br>► Persistência dos dados no SGBD PostgreSQL. |
 
-# :chart_with_downwards_trend: Gráfico Burndown (08/04/2024)
+# :chart_with_downwards_trend: Gráfico Burndown (17/04/2024)
 
-[![Gráfico Burndown](/misc/Gráfico%20Burndown%2008-04-2024.png)](/misc/Gráfico%20Burndown%2008-04-2024.png)
+[![Gráfico Burndown](misc/Gráfico%20Burndown%20Completo%20(Sprint%201).jpg)](misc/Gráfico%20Burndown%20Completo%20(Sprint%201).jpg)
 
 # :paperclip: Quadro de Tarefas (Trello)
 
