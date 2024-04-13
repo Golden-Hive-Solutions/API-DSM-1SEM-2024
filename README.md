@@ -16,11 +16,11 @@
 
 Os entregáveis serão realizados conforme as datas previamente acordadas com o cliente, acompanhados de um relatório completo do progresso alcançado durante as sprints.
 
-| Sprint  | Previsão de Entrega   | Status                        | Histórico                                      |
-| ------- | --------------------- | ----------------------------- | ---------------------------------------------- |
-| :one:   | :calendar: 17/04/2024 | :yellow_square: Em Andamento | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
-| :two:   | :calendar: 15/05/2024 | :red_square: Pendente | :round_pushpin: [Ver Relatório](./Sprint02.md) |
-| :three: | :calendar: 12/06/2024 | :red_square: Pendente | :round_pushpin: [Ver Relatório](./sprint03.md) |
+| Sprint  | Previsão de Entrega   | Status                        | Backlog das Sprints                                        | Retrospectiva das Sprints
+| ------- | --------------------- | ----------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| :one:   | :calendar: 17/04/2024 | :yellow_square: Em Andamento  | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
+| :two:   | :calendar: 15/05/2024 | :red_square: Pendente         | :round_pushpin: [Ver Relatório](./Sprint02.md)             | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
+| :three: | :calendar: 12/06/2024 | :red_square: Pendente         | :round_pushpin: [Ver Relatório](./sprint03.md)             | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
 
 # :triangular_flag_on_post: Backlog do Produto
 
