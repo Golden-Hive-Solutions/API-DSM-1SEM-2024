@@ -16,11 +16,11 @@
 
 Os entregáveis serão realizados conforme as datas previamente acordadas com o cliente, acompanhados de um relatório completo do progresso alcançado durante as sprints.
 
-| Sprint  | Previsão de Entrega   | Status                        | Histórico                                      |
-| ------- | --------------------- | ----------------------------- | ---------------------------------------------- |
-| :one:   | :calendar: 17/04/2024 | :yellow_square: Em Andamento | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
-| :two:   | :calendar: 15/05/2024 | :red_square: Pendente | :round_pushpin: [Ver Relatório](./Sprint02.md) |
-| :three: | :calendar: 12/06/2024 | :red_square: Pendente | :round_pushpin: [Ver Relatório](./sprint03.md) |
+| Sprint  | Previsão de Entrega   | Status                        | Backlog das Sprints                                        | Retrospectiva das Sprints
+| ------- | --------------------- | ----------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| :one:   | :calendar: 17/04/2024 | :yellow_square: Em Andamento  | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
+| :two:   | :calendar: 15/05/2024 | :red_square: Pendente         | :round_pushpin: [Ver Relatório](./Sprint02.md)             | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
+| :three: | :calendar: 12/06/2024 | :red_square: Pendente         | :round_pushpin: [Ver Relatório](./sprint03.md)             | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
 
 # :triangular_flag_on_post: Backlog do Produto
 
@@ -37,17 +37,17 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 | Alta :red_square:      | Integração Trello-GitHub                | Como equipe de desenvolvimento, desejo integrar o Trello ao GitHub para gerenciar o backlog do produto.               | ► Utilização do Trello para gerenciar o backlog do produto. <br>► Adição de links para problemas do GitHub em cada cartão no Trello. <br>► Movimentação dos cartões conforme o progresso das tarefas. <br>► Adição de links do pull request ao cartão no Trello. <br>► Monitoramento do progresso das tarefas no Trello. |
 | Alta :red_square:      | Tecnologias Utilizadas                  | Como equipe de desenvolvimento, desejo utilizar as tecnologias especificadas para o desenvolvimento do sistema.      | ► Utilização de JavaScript no front end e back end. <br>► Utilização de HTML e CSS para marcação e estilos. <br>► Visual responsivo utilizando CSS media queries. <br>► Prototipação de telas no Figma. <br>► Persistência dos dados no SGBD PostgreSQL. |
 
-# :chart_with_downwards_trend: Gráfico Burndown (08/04/2024)
+# :chart_with_downwards_trend: Gráfico Burndown (17/04/2024)
 
-[![Gráfico Burndown](/misc/Gráfico%20Burndown%2008-04-2024.png)](/misc/Gráfico%20Burndown%2008-04-2024.png)
+[![Gráfico Burndown](misc/Burndown%20Sprint%201.jpg)](misc/Burndown%20Sprint%201.jpg)
 
 # :paperclip: Quadro de Tarefas (Trello)
 
-<a  href="https://trello.com/b/AgDfKI0v/golden-hive-solutions">**Clique Aqui**</a>
+<h2><a  href="https://trello.com/b/AgDfKI0v/golden-hive-solutions">► Clique Aqui para Acessar o Quadro de Tarefas ◄</a></h2>
 
 # :scroll: Requisitos do Cliente
 
-<a  href="Requisitos de Cliente 1DSM - 2024-1.pdf">**Clique Aqui**</a>
+<h2><a  href="Requisitos de Cliente 1DSM - 2024-1.pdf">► Clique Aqui para Acessar os Requisitos do Cliente ◄</a></h2>
 
 # :bust_in_silhouette: User Stories
 
@@ -76,7 +76,7 @@ Você precisa ter o [VsCode](https://code.visualstudio.com/download) para rodar 
 ## :page_facing_up: Wireframe
 
 [![Wireframe](./prototipagem/Protótipo%20do%20Wireframe.png)](./prototipagem/Protótipo%20do%20Wireframe.png)
-<a  href="/prototipagem/">**Clique Aqui**</a>
+<h2><a  href="/prototipagem/">► Clique Aqui para Acessar Todas as Páginas do Wireframe ◄</a></h2>
 
 ## :busts_in_silhouette: Equipe
 
