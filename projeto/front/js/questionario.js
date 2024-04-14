@@ -19,7 +19,9 @@ function listarQuestao() {
       })
       .then((data) => {
         let questoes = "";
-        for (i = 0; i < data.length; i++) {
+        const shuffled = shuffle(data);
+        const slice = shuffled.slice(0,20);
+        for (i = 0; i < slice.length; i++) {
           questoes += `<div class='questao'>
             <div class='linha-enunciado'>${data[i].enunciado}</div>
             <div class='linha-alternativa'>
@@ -40,4 +42,12 @@ function listarQuestao() {
         console.error("Erro:", error);
       });
   }
+}
+
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
 }
