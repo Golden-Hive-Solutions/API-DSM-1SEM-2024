@@ -6,9 +6,9 @@
 | 🟥 Alta           | Login de usuário no servidor                                                                           | 🟩 Concluído    | 8      |
 | 🟥 Alta           | Gerar 20 questões aleatórias no servidor                                                               | 🟩 Concluído    | 8      |
 | 🟥 Alta           | Protótipos das telas no Figma                                                                          | 🟩 Concluído    | 8      |
-| 🟨 Média          | HTML (uso adequado da linguagem) - Entrega Parcial                                                     | 🟨 Pendente     | 5      |
-| 🟨 Média          | CSS (uso adequado das propriedades CSS com classes, identificadores etc.) - Entrega Parcial            | 🟨 Pendente     | 5      |
-| 🟨 Média          | Navegabilidade entre telas - Entrega Parcial                                                           | 🟨 Pendente     | 5      |
+| 🟨 Média          | HTML (uso adequado da linguagem) - Entrega Parcial                                                     | 🟩 Concluído    | 5      |
+| 🟨 Média          | CSS (uso adequado das propriedades CSS com classes, identificadores etc.) - Entrega Parcial            | 🟩 Concluído    | 5      |
+| 🟨 Média          | Navegabilidade entre telas - Entrega Parcial                                                           | 🟩 Concluído    | 5      |
 | 🟩 Baixa          | Cores e contrastes                                                                                     | 🟩 Concluído    | 3      |
 | 🟦 Outras Tarefas | GitHub: descrição do projeto                                                                           | 🟩 Concluído    | 2      |
 | 🟦 Outras Tarefas | GitHub: link para cada entrega de sprint                                                               | 🟩 Concluído    | 2      |
