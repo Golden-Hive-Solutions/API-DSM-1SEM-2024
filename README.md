@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>
-<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="#paperclip-quadro-de-tarefas-trello">Trello</a> | <a  href="#bust_in_silhouette-user-stories">User Story</a> | <a  href="#triangular_flag_on_post-backlog-do-produto">Backlog do Produto</a> | <a  href="#chart_with_downwards_trend-gráfico-burndown-08042024">Burndown</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="#scroll-requisitos-do-cliente">Requisitos</a>
+<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="#paperclip-quadro-de-tarefas-trello">Trello</a> | <a  href="#bust_in_silhouette-user-stories">User Story</a> | <a  href="#triangular_flag_on_post-backlog-do-produto">Backlog do Produto</a> | <a  href="#chart_with_downwards_trend-gráfico-burndown-17042024">Burndown</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="#scroll-requisitos-do-cliente">Requisitos</a>
 </h1>
 </div>
 
@@ -18,9 +18,9 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 
 | Sprint  | Previsão de Entrega   | Status                        | Backlog das Sprints                                        | Retrospectiva das Sprints
 | ------- | --------------------- | ----------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
-| :one:   | :calendar: 17/04/2024 | :yellow_square: Em Andamento  | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
-| :two:   | :calendar: 15/05/2024 | :red_square: Pendente         | :round_pushpin: [Ver Relatório](./Sprint02.md)             | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
-| :three: | :calendar: 12/06/2024 | :red_square: Pendente         | :round_pushpin: [Ver Relatório](./sprint03.md)             | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
+| :one:   | :calendar: 17/04/2024 | :green_square: Concluído  | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md) | :round_pushpin: [Em Construção](./misc/sprintbacklog1.md) |
+| :two:   | :calendar: 15/05/2024 | :red_square: Pendente         | :round_pushpin: [Ver Relatório](./misc/sprintbacklog2.md)             | :round_pushpin: [Pendente](./misc/sprintbacklog2.md) |
+| :three: | :calendar: 12/06/2024 | :red_square: Pendente         | :round_pushpin: [Ver Relatório](./misc/sprintbacklog3.md)             | :round_pushpin: [Pendente](./misc/sprintbacklog3.md) |
 
 # :triangular_flag_on_post: Backlog do Produto
 
@@ -68,10 +68,6 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgre](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## :computer: Instalação
-
-Você precisa ter o [VsCode](https://code.visualstudio.com/download) para rodar o projeto.
 
 ## :page_facing_up: Wireframe
 
