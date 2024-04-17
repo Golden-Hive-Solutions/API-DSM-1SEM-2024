@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>
-<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="#paperclip-quadro-de-tarefas-trello">Trello</a> | <a  href="#bust_in_silhouette-user-stories">User Story</a> | <a  href="#triangular_flag_on_post-backlog-do-produto">Backlog do Produto</a> | <a  href="#chart_with_downwards_trend-gráfico-burndown-17042024">Burndown</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="#scroll-requisitos-do-cliente">Requisitos</a>
+<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="https://trello.com/b/AgDfKI0v/golden-hive-solutions">Trello</a> | <a  href="#bust_in_silhouette-user-stories">User Story</a> | <a  href="#triangular_flag_on_post-backlog-do-produto">Backlog do Produto</a> | <a  href="#chart_with_downwards_trend-gráfico-burndown-17042024">Burndown</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="Requisitos de Cliente 1DSM - 2024-1.pdf">Requisitos</a>
 </h1>
 </div>
 
@@ -40,14 +40,6 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 # :chart_with_downwards_trend: Gráfico Burndown (17/04/2024)
 
 [![Gráfico Burndown](misc/Burndown%20Sprint%201.jpg)](misc/Burndown%20Sprint%201.jpg)
-
-# :paperclip: Quadro de Tarefas (Trello)
-
-<h2><a  href="https://trello.com/b/AgDfKI0v/golden-hive-solutions">► Clique Aqui para Acessar o Quadro de Tarefas ◄</a></h2>
-
-# :scroll: Requisitos do Cliente
-
-<h2><a  href="Requisitos de Cliente 1DSM - 2024-1.pdf">► Clique Aqui para Acessar os Requisitos do Cliente ◄</a></h2>
 
 # :bust_in_silhouette: User Stories
 
