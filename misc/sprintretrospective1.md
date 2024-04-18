@@ -46,7 +46,6 @@
 1. **Desistência de Membros:** A desistência de dois membros da equipe pode ter impactado a dinâmica e a carga de trabalho dos demais.
 2. **Dificuldades com Estilização CSS:** A dificuldade em estilizar as páginas HTML com CSS é um desafio comum, mas pode ser superado com mais prática e talvez revisão de conceitos.
 3. **Comunicação com o Banco de Dados:** A dificuldade em fazer com que o banco de dados se comunicasse com as páginas do site é um obstáculo técnico significativo. No entanto, estamos estudando para que possamos entender como essas interações funcionam na prática e, consequentemente, melhorar o processo.
-4. **Divergências e Choque de Personalidades:** É natural que haja divergências de opiniões e choques de personalidades em uma equipe, mas é importante abordar esses conflitos de forma construtiva. Investir em comunicação e resolução de conflitos pode ajudar a mitigar esses problemas.
 
 Em geral, a sprint teve um desempenho satisfatório, mas há áreas específicas que podem ser aprimoradas para aumentar a eficiência e o sucesso das futuras iterações do projeto.
 
