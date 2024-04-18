@@ -1,70 +1,60 @@
-1- De acordo com as técnicas prescritas pela engenharia de software, jugue o item abaixo: 
-
-Conforme a metodologia Scrum, na possibilidade de diversos incrementos sejam criados em uma sprint, um deles pode ser entregue aos stakeholders antes da conclusão da sprint. 
+1 - Conforme a metodologia Scrum, na possibilidade de diversos incrementos sejam criados em uma sprint, um deles pode ser entregue aos stakeholders antes da conclusão da sprint. 
 
 () Verdadeiro
 () Falso
 
 Resposta: Verdadeiro
 
-2 – Julgue o próximo item:
 
-De acordo com o Scrum, durante uma sprint planning, para cada item do product backlog selecionado, cabe ao product owner planejar o trabalho necessário para criar um incremento de valor que atenda à forma como isso será feito.
+2 - De acordo com o Scrum, durante uma sprint planning, para cada item do product backlog selecionado, cabe ao product owner planejar o trabalho necessário para criar um incremento de valor que atenda à forma como isso será feito.
 
 () Verdadeiro
 () Falso
 
 Resposta: Falso
 
-3 – Jugue o item a seguir de acordo com Scrum: 
-
-O scrum master tem competência para cancelar uma sprint antes de o time-boxed da sprint terminar.
+3 -O scrum master tem competência para cancelar uma sprint antes de o time-boxed da sprint terminar.
 
 () Verdadeiro
 () Falso
 
 Resposta: Falso
 
-4- De acordo com o Scrum, julgue o item:
-Epics é um artefato formada por pequenas partes do trabalho na qual atende as perspectivas do patrocinador. 
+4 -Epics é um artefato formada por pequenas partes do trabalho na qual atende as perspectivas do patrocinador. 
 
 () Verdadeiro
 () Falso
 
 Resposta: Falso
 
-5 – De acordo com Scrum, julgue o tema a seguir. 
-Na perspectiva do usuário final, as histórias são classificadas como pequenos requisitos de um projeto.
+5 – De acordo com Scrum,na perspectiva do usuário final, as histórias são classificadas como pequenos requisitos de um projeto.
 
 () Verdadeiro
 () Falso
 
 Resposta: Verdadeiro
 
-6 -  Sobre a Scrum, julgue o item a seguir.
-O Backlog da sprint é uma lista de histórias de usuários e tarefas que ajuda equipes ágeis a focarem em seus objetivos de forma eficaz enquanto backlog do produto é uma lista de funcionalidades e requisitos priorizada pelo time de desenvolvimento que deverão ser entregues ao cliente ao longo das Sprints. 
+6 -  O Backlog da sprint é uma lista de histórias de usuários e tarefas que ajuda equipes ágeis a focarem em seus objetivos de forma eficaz enquanto backlog do produto é uma lista de funcionalidades e requisitos priorizada pelo time de desenvolvimento que deverão ser entregues ao cliente ao longo das Sprints. 
 
 () Verdadeiro
 () Falso
 
 Resposta: Verdadeiro
 
-7 – De acordo com a metodologia Scrum,julgue verdadeiro ou falso:
-A regra que tem a função de refletir sobre o andamento das atividades na sprint é chamado de retrospectiv. 
+7 – A regra que tem a função de refletir sobre o andamento das atividades na sprint é chamado de retrospectiv. 
 
 () Verdadeiro
 () Falso
 
 Resposta: Verdadeiro
 
-8 - Julgue verdadeiro ou falso. O scrum define papeis a serem realizados pelo time. O responsável por fiscalizar o progresso do desenvolvimento do projeto e ser o guardião do rito é chamado product owner. 
+8 - O scrum define papeis a serem realizados pelo time. O responsável por fiscalizar o progresso do desenvolvimento do projeto e ser o guardião do rito é chamado product owner. 
 
 () Verdadeiro
 () Falso
 
-Resposta: Verdadeiro 
+Resposta: Falso
 
-O correto é scrum master
 9 – De acordo com a metodologia Scrum, é realizada na sprint planning a seleção dos itens do backlog que serão produzidos durante a sprint depois de finalizado o seu escopo, a sprint não poderá mais ser mudada.
 
 () Verdadeiro
@@ -72,8 +62,7 @@ O correto é scrum master
 
 Resposta: Verdadeiro
 
-10 – Julgue o item abaixo em relação as metodologias ágeis:
-O SCRUM é formado por quatro atividades a serem feitas: planejamento, projeto, codificação e testes, usualmente são repetidas ao longo do processo.
+10 –O SCRUM é formado por quatro atividades a serem feitas: planejamento, projeto, codificação e testes, usualmente são repetidas ao longo do processo.
 
 () Verdadeiro
 () Falso
@@ -87,8 +76,7 @@ Resposta: Verdadeiro
 
 Resposta: Verdadeiro
 
-12 – De acordo com o desenvolvimento e manutenção de sistemas e aplicações, julgue o item abaixo:
-Conforme o método ágil Scrum, o principal objetivo é entregar o sistema completamente funcionando no menor espaço de tempo ao cliente.
+12 – Conforme o método ágil Scrum, o principal objetivo é entregar o sistema completamente funcionando no menor espaço de tempo ao cliente.
 
 () Verdadeiro
 () Falso
@@ -102,22 +90,21 @@ Resposta: Falso
 
 Resposta: Verdadeiro 
 
-14 - Julgue verdadeiro ou falso, o item abaixo:
-Na sprint planning, o product owner seleciona os itens do product backlog para adicionar na sprint e estabelece de forma detalhada aos developers como será realizado o trabalho para criar um incremento de valor.
-
-() Verdadeiro
-() Falso
-
-Resposta: Falso
-15 – Conforme o metodo scrum, o Scrum Master é responsável por criar uma lista das necessidades do cliente onde é pontuado as funcionalidades desejadas para a realização do produto.
+14 - Na sprint planning, o product owner seleciona os itens do product backlog para adicionar na sprint e estabelece de forma detalhada aos developers como será realizado o trabalho para criar um incremento de valor.
 
 () Verdadeiro
 () Falso
 
 Resposta: Falso
 
-16 – Sobre o ciclo de vida de software julgue verdadeiro ou falso
-No trabalho realizado no scrum, é necessário para alcançar a meta do produto: Está introduzido nas sprints, incluindo as daily scrums e as sprint retrospective.
+15 – O Scrum Master é responsável por criar uma lista das necessidades do cliente onde é pontuado as funcionalidades desejadas para a realização do produto.
+
+() Verdadeiro
+() Falso
+
+Resposta: Falso
+
+16 –No trabalho realizado no scrum, é necessário para alcançar a meta do produto: Está introduzido nas sprints, incluindo as daily scrums e as sprint retrospective.
 
 () Verdadeiro
 () Falso
@@ -131,16 +118,14 @@ Resposta: Verdadeiro
 
 Resposta: Verdadeiro
 
-18 – De acordo com a gestão de portfólio e scrum, julgue o item como verdadeiro ou falso:
-A seleção das ferramentas e métodos aplicados na metodologia de gestão de portfólio é um período significativo e conta com a participação dos stakeholders envolvidos no projeto.
+18 – A seleção das ferramentas e métodos aplicados na metodologia de gestão de portfólio é um período significativo e conta com a participação dos stakeholders envolvidos no projeto.
 
 () Verdadeiro
 () Falso
 
 Resposta: Verdadeiro
 
-19 – De acordo com o portfólio scrum, jugue o item como verdadeiro ou falso:
-Após cada sprint, o scrum master é responsável pela avaliação de mudar algo no percurso do projeto ou reorganizar as prioridades para as próximas sprints.
+19 – Após cada sprint, o scrum master é responsável pela avaliação de mudar algo no percurso do projeto ou reorganizar as prioridades para as próximas sprints.
 
 () Verdadeiro
 () Falso
@@ -204,9 +189,7 @@ Resposta: Falso
 
 Resposta: Verdadeiro
 
-28 – Conforme os conceitos e fundamentos da metodologia ágil julgue o item abaixo:
-Um ponto crucial do Scrum é a definição de equipe que deve ser adotado, principalmente quando se menciona a equipes multifuncionais ou multidisciplinares em que há responsabilidades individuais e não papéis.
-
+28 – Um ponto crucial do Scrum é a definição de equipe que deve ser adotado, principalmente quando se menciona a equipes multifuncionais ou multidisciplinares em que há responsabilidades individuais e não papéis.
 () Verdadeiro
 () Falso
 
@@ -233,8 +216,7 @@ Resposta: Verdadeiro
 
 Resposta: Falso
 
-32 - Acerca da prática ágil para gerenciamento de projetos julgue certo ou errado:
-Os valores do Scrum, que guiam o comportamento do Scrum Team, são na verdade cinco: Comprometimento, Coragem, Foco, Abertura e Respeito.
+32 - Os valores do Scrum, que guiam o comportamento do Scrum Team, são na verdade cinco: Comprometimento, Coragem, Foco, Abertura e Respeito.
 
 () Verdadeiro
 () Falso
@@ -248,32 +230,28 @@ Resposta: Verdadeiro
 
 Resposta: Verdadeiro
 
-34 – Julgue certo ou errado:
-O Product Owner possui a autoridade para cancelar uma sprint, mas isso acontece apenas em circunstâncias excepcionais, por exemplo, quando o mercado ou a tecnologia envolvida sofre mudanças drásticas, tornando o trabalho da sprint irrelevante ou obsoleto. Este tipo de decisão não é tomado pelo Scrum Team como um todo e sim pelo Product Owner, que é o responsável por maximizar o valor do produto e da sprint.
+34 – O Product Owner possui a autoridade para cancelar uma sprint, mas isso acontece apenas em circunstâncias excepcionais, por exemplo, quando o mercado ou a tecnologia envolvida sofre mudanças drásticas, tornando o trabalho da sprint irrelevante ou obsoleto. Este tipo de decisão não é tomado pelo Scrum Team como um todo e sim pelo Product Owner, que é o responsável por maximizar o valor do produto e da sprint.
 
 () Verdadeiro
 () Falso
 
 Resposta: Verdadeiro
 
-35 - Julgue certo ou errado:
-O Daily Scrum é um evento chave dentro da metodologia ágil do Scrum, e é projetado para ser uma reunião rápida de alinhamento da equipe de desenvolvimento. De fato, ela deve ser realizada diariamente e tem a duração máxima de 15 minutos, onde a equipe se sincroniza sobre o que foi feito no dia anterior e planeja as atividades do dia atual.
+35 - O Daily Scrum é um evento chave dentro da metodologia ágil do Scrum, e é projetado para ser uma reunião rápida de alinhamento da equipe de desenvolvimento. De fato, ela deve ser realizada diariamente e tem a duração máxima de 15 minutos, onde a equipe se sincroniza sobre o que foi feito no dia anterior e planeja as atividades do dia atual.
 
 () Verdadeiro
 () Falso
 
 Resposta: Verdadeiro
 
-36 –Julgue certo ou errado:
-O Product Owner e o Scrum Master não participam da Daily Scrum 
+36 –O Product Owner e o Scrum Master não participam da Daily Scrum 
 
 () Verdadeiro
 () Falso
 
 Resposta: Falso
 
-37 -  De acordo com a metodologia Scrum, julgue certo ou errado
-Dentro do Scrum, os developers (desenvolvedores) têm a responsabilidade exclusiva de planejar como transformar os itens do backlog do produto em incrementos de funcionalidade, que adicionam valor ao produto final. Isso significa que não há intervenção externa no planejamento técnico; gestores, product owners ou qualquer outra pessoa de fora da equipe de desenvolvimento não determinam como o trabalho deve ser feito.
+37 -  Dentro do Scrum, os developers (desenvolvedores) têm a responsabilidade exclusiva de planejar como transformar os itens do backlog do produto em incrementos de funcionalidade, que adicionam valor ao produto final. Isso significa que não há intervenção externa no planejamento técnico; gestores, product owners ou qualquer outra pessoa de fora da equipe de desenvolvimento não determinam como o trabalho deve ser feito.
 
 () Verdadeiro
 () Falso
@@ -336,25 +314,20 @@ Resposta: Verdadeiro
 
 Resposta: Falso
 
-46 – De acordo com a metodologia Scrum, julgue certo ou errado: 
-
-Segundo a sprint planning, a Sprint se inicia quando é definido o trabalho a ser produzido na Sprint.
+46 – Segundo a sprint planning, a Sprint se inicia quando é definido o trabalho a ser produzido na Sprint.
 
 () Verdadeiro
 () Falso
 
 Resposta: Verdadeiro
 
-47 – Segundo o Scrum, julgue verdadeiro ou falso:
-Um dos fundamentos do Scrum é diminuir o desperdício, na sprint o Scrum team pode ser subdividido em subtimes com a finalidade de potencializar o paralelismo nas execuções. 
-
+47 – Um dos fundamentos do Scrum é diminuir o desperdício, na sprint o Scrum team pode ser subdividido em subtimes com a finalidade de potencializar o paralelismo nas execuções. 
 () Verdadeiro
 () Falso
 
 Resposta: Falso
 
-48 – Julgue o item a seguir abaixo como verdadeiro ou falso:
-A função do Scrum Master é liderar o time de desenvolvimento e administrar os recursos do grupo.
+48 – A função do Scrum Master é liderar o time de desenvolvimento e administrar os recursos do grupo.
 
 () Verdadeiro
 () Falso
