@@ -19,7 +19,7 @@
 
 <div align="center">
 
-#### [ :house: Voltar para home](./README.md)
+#### [ :house: Voltar para home](README.md)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 # :page_facing_up: Wireframe
 
-[![Wireframe](./prototipagem/Protótipo%20do%20Wireframe.png)](https://www.figma.com/file/tEjptBqB0HKKHZAePffXuG/prototipagem-api-v2-ok?type=design&node-id=0-1&mode=design&t=gnRlBIMvnWQW3kTb-0)
+[![Wireframe](./prototipagem/Protótipo do Wireframe.png)](https://www.figma.com/file/tEjptBqB0HKKHZAePffXuG/prototipagem-api-v2-ok?type=design&node-id=0-1&mode=design&t=gnRlBIMvnWQW3kTb-0)
 
 # :hotsprings: Retrospectiva da Sprint
 
