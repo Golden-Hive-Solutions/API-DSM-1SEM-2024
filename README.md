@@ -18,7 +18,7 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 
 | Sprint  | Previsão de Entrega   | Status                        | Backlog das Sprints                                        | Retrospectiva das Sprints
 | ------- | --------------------- | ----------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
-| :one:   | :calendar: 17/04/2024 | :green_square: Concluído  | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md) | :round_pushpin: [Em Construção](./misc/sprintbacklog1.md) |
+| :one:   | :calendar: 17/04/2024 | :green_square: Concluído  | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md) | :round_pushpin: [Concluído](./misc/sprintretrospective1.md) |
 | :two:   | :calendar: 15/05/2024 | :red_square: Pendente         | :round_pushpin: [Ver Relatório](./misc/sprintbacklog2.md)             | :round_pushpin: [Pendente](./misc/sprintbacklog2.md) |
 | :three: | :calendar: 12/06/2024 | :red_square: Pendente         | :round_pushpin: [Ver Relatório](./misc/sprintbacklog3.md)             | :round_pushpin: [Pendente](./misc/sprintbacklog3.md) |
 

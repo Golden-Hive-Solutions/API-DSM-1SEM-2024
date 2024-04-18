@@ -7,7 +7,7 @@
 </div>
 <h1>
 <div align="center"> 
-<a  href="#dart-objetivo-da-sprint">Objetivo da Sprint</a> | <a  href="#triangular_flag_on_post-sprint-backlog">Backlog da Sprint</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#clipboard-kanbam-trello">Kanbam</a> | <a  href="#pushpin-apontamentos">Retrospectiva sprint 1</a> | <a  href="#hotsprings-sprint-review">Sprint Review</a>
+<a  href="#dart-objetivo-da-sprint">Objetivo da Sprint</a> | <a  href="#triangular_flag_on_post-backlog-da-sprint">Backlog da Sprint</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#hotsprings-retrospectiva-da-sprint">Retrospectiva da Sprint</a> | <a  href="#pushpin-review-da-sprint">Review da Sprint</a>
 </h1>
 </div>
 
@@ -27,40 +27,35 @@
 
 - O objetivo dessa primeira Sprint foi avançar no desenvolvimento visual e funcional do projeto. Isso incluiu a implementação prioritária de funcionalidades essenciais, como o cadastro de usuário, o login no sistema e a randomização das questões armazenadas no banco de dados. Além disso, foram realizados avanços significativos na interface do usuário, como a criação de protótipos das telas no Figma, definição da paleta de cores utilizadas no site e a entrega parcial de HTML, CSS e navegação entre telas. Paralelamente, foram cumpridas as tarefas administrativas, como a descrição do projeto no GitHub, o registro das entregas de sprint, a documentação das tecnologias utilizadas e a organização do backlog do produto. Esses esforços visaram manter um progresso consistente e garantir a transparência e a organização do trabalho realizado pela equipe.
 
-# :triangular_flag_on_post: Sprint Backlog
+# :triangular_flag_on_post: Backlog da Sprint
 
-[![Sprint Backlog](./imgs/Sprint01_BackLogList.PNG)](./imgs/Sprint01_BackLogList.PNG)
+[![Backlog da Sprint](./Golden%20Hive%20Solutions%20Backlog.PNG)](./Golden%20Hive%20Solutions%20Backlog.PNG)
 
-# :chart_with_downwards_trend: Burndown Sprint 01
+# :chart_with_downwards_trend: Gráfico Burndown
 
-[![Brundown Sprint01](./imgs/Burndown_Sprint01.PNG)](./imgs/Burndown_Sprint01.PNG)
-
-##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
+[![Burndown Primeira Sprint](./Burndown%20Sprint%201.jpg)](./Burndown%20Sprint%201.jpg)
 
 # :page_facing_up: Wireframe
 
-[![Wireframe](./imgs/WireFrame.PNG)](https://www.figma.com/file/NlvWUeXkm24HkJzpUlTSe8/Web-Wizards?type=design&node-id=0-1&mode=design&t=d2QDJjhf6EplNvEl-0)
+[![Wireframe](./prototipagem/Protótipo%20do%20Wireframe.png)](https://www.figma.com/file/tEjptBqB0HKKHZAePffXuG/prototipagem-api-v2-ok?type=design&node-id=0-1&mode=design&t=gnRlBIMvnWQW3kTb-0)
 
-# :clipboard: Kanbam (Trello)
+# :hotsprings: Retrospectiva da Sprint
 
-A equipe toda se organizou para estudar e estruturar a disposição do wireframe. Para entregar da melhor forma o wireframe para o cliente, visando a preparação para o site.
+**Pontos Positivos:**
+1. **Entregas Concluídas:** A equipe conseguiu completar todas as atividades planejadas para esta sprint, o que demonstra um bom comprometimento e capacidade de entrega.
+2. **GitHub e Trello Atualizados:** Todos os registros no GitHub e no Trello foram atualizados conforme as entregas da sprint, garantindo transparência e organização no processo.
+3. **Protótipos das Telas:** Os protótipos das telas foram concluídos no Figma e algumas telas já foram recriadas utilizando HTML5 e CSS3, o que fornece uma direção clara para o desenvolvimento e ajuda na comunicação visual do projeto.
 
-[![Kanbam Trello](./imgs/Trello.PNG)](./imgs/Trello.PNG)
+**Pontos a Melhorar:**
+1. **Desistência de Membros:** A desistência de dois membros da equipe pode ter impactado a dinâmica e a carga de trabalho dos demais.
+2. **Dificuldades com Estilização CSS:** A dificuldade em estilizar as páginas HTML com CSS é um desafio comum, mas pode ser superado com mais prática e talvez revisão de conceitos.
+3. **Comunicação com o Banco de Dados:** A dificuldade em fazer com que o banco de dados se comunicasse com as páginas do site é um obstáculo técnico significativo. No entanto, estamos estudando para que possamos entender como essas interações funcionam na prática e, consequentemente, melhorar o processo.
+4. **Divergências e Choque de Personalidades:** É natural que haja divergências de opiniões e choques de personalidades em uma equipe, mas é importante abordar esses conflitos de forma construtiva. Investir em comunicação e resolução de conflitos pode ajudar a mitigar esses problemas.
 
-##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
+Em geral, a sprint teve um desempenho satisfatório, mas há áreas específicas que podem ser aprimoradas para aumentar a eficiência e o sucesso das futuras iterações do projeto.
 
-# :hotsprings: Sprint Review
+# :pushpin: Review da Sprint
 
-Após uma reunião abrangente com toda a equipe, realizamos uma análise minuciosa e constatamos que a primeira Sprint foi bem-sucedida em relação às metas estabelecidas. Todos os entregáveis planejados foram efetivamente concluídos. Além disso, conseguimos adiantar determinados aspectos para a segunda Sprint, otimizando assim o processo. A documentação exigida pelo User Story do professor encontra-se em conformidade com os requisitos, mantendo harmonia em relação às expectativas.
-
-No que concerne ao User Story do cliente, embora haja ainda poucos elementos específicos de seu interesse, já estabelecemos a estrutura das páginas, um componente fundamental para o progresso do projeto. Como equipe, chegamos à conclusão de que estamos no caminho certo com relação a esse User Story.
-
-No contexto do User Story do usuário, embora não tenham ocorrido mudanças substanciais, a organização das páginas representa uma melhoria notável para a experiência do usuário. Uma página bem estruturada e organizada facilitará a incorporação dos elementos visuais no futuro. Portanto, concluímos que estamos adequadamente organizados e alinhados com os objetivos estabelecidos. Nossa intenção é continuar com este método e manter o mesmo nível de comprometimento de toda a equipe, visando atender plenamente às expectativas deste projeto. Se percebermos a necessidade de ajustes, estaremos prontos para efetuá-los, visando uma entrega ainda mais precisa e aprimorada na sinergia da equipe.
-
-# :pushpin: retrospectiva da sprint 1
-
-No início da sprint, deparamo-nos com um desafio no que concerne à organização das tarefas prioritárias. Cada membro da equipe tinha sua própria perspectiva sobre a sequência de ações a serem tomadas, resultando em pequenos desentendimentos durante as reuniões diárias, que inicialmente acabou resultando num início de sprint mais lento.
-
-Contudo, após uma construtiva conversa com a Product Owner (PO), que possui um vasto conhecimento em relação ao planejamento e à condução de projetos, incluindo a elaboração de wireframes e os passos subsequentes, conseguimos estabelecer uma estrutura mais sólida, de forma que os as tarefas ficaram mais claras e o desenvolvimento da sprint acabar ocorrendo de uma forma mais harmoniosa até sua conclusão.
+Aguardando Feedback do cliente.
 
 ##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
