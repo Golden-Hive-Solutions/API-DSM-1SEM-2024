@@ -7,7 +7,7 @@
 </div>
 <h1>
 <div align="center"> 
-<a  href="#dart-objetivo-da-sprint">Objetivo da Sprint</a> | <a  href="#triangular_flag_on_post-backlog-da-sprint">Backlog da Sprint</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#hotsprings-retrospectiva-da-sprint">Retrospectiva da Sprint</a> | <a  href="#pushpin-review-da-sprint">Review da Sprint</a>
+<a  href="#dart-objetivo-da-sprint">Objetivo da Sprint</a> | <a  href="#triangular_flag_on_post-backlog-da-sprint">Backlog da Sprint</a> | <a  href="https://www.figma.com/file/tEjptBqB0HKKHZAePffXuG/prototipagem-api-v2-ok?type=design&node-id=0-1&mode=design&t=gnRlBIMvnWQW3kTb-0">Wireframe</a> | <a  href="#hotsprings-retrospectiva-da-sprint">Retrospectiva da Sprint</a> | <a  href="#pushpin-review-da-sprint">Review da Sprint</a>
 </h1>
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-#### [ :house: Voltar para home](README.md)
+#### [:house: Voltar para home](https://github.com/Golden-Hive-Solutions/API-DSM-1SEM-2024)
 
 </div>
 
@@ -34,10 +34,6 @@
 # :chart_with_downwards_trend: Gráfico Burndown
 
 [![Burndown Primeira Sprint](./Burndown%20Sprint%201.jpg)](./Burndown%20Sprint%201.jpg)
-
-# :page_facing_up: Wireframe
-
-[![Wireframe](./prototipagem/Protótipo do Wireframe.png)](https://www.figma.com/file/tEjptBqB0HKKHZAePffXuG/prototipagem-api-v2-ok?type=design&node-id=0-1&mode=design&t=gnRlBIMvnWQW3kTb-0)
 
 # :hotsprings: Retrospectiva da Sprint
 
