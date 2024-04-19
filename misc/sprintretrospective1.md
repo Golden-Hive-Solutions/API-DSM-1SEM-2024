@@ -51,6 +51,42 @@ Em geral, a sprint teve um desempenho satisfatório, mas há áreas específicas
 
 # :pushpin: Review da Sprint
 
-Aguardando Feedback do cliente.
+**Data:** 18/04/2024
+
+**Participantes:**
+- Scrum Team (Product Owner, Scrum Master, Membros do Time de Desenvolvimento)
+- Stakeholders (Clientes)
+
+**Agenda:**
+1. Apresentação dos Incrementos do Produto
+2. Feedback dos Stakeholders
+3. Discussão sobre Exposição das Dificuldades da Equipe
+4. Melhoria na Apresentação dos Itens do Backlog
+5. Ações para o Próximo Sprint
+
+**Resumo:**
+A Sprint Review foi realizada com sucesso, com a participação ativa dos stakeholders e do Scrum Team. Durante a reunião, foram apresentados os incrementos do produto desenvolvidos durante o sprint, seguidos por um feedback por parte do cliente.
+
+**Apresentação dos Incrementos do Produto:**
+Durante a apresentação dos incrementos do produto, foi destacado o progresso feito pela equipe durante o sprint. O cliente expressou satisfação com os resultados apresentados, reconhecendo o valor dos incrementos desenvolvidos.
+
+**Feedback dos Stakeholders:**
+O cliente expressou satisfação com os incrementos apresentados, destacando sua utilidade e qualidade. No entanto, houve críticas em relação à exposição das dificuldades enfrentadas pela equipe durante o processo de desenvolvimento. O cliente sugeriu que futuras apresentações devem se concentrar mais nos resultados alcançados, evitando expor as dificuldades internas da equipe.
+
+**Discussão sobre Exposição das Dificuldades da Equipe:**
+A equipe reconheceu a crítica do cliente em relação à exposição das dificuldades da equipe durante a apresentação. Foi discutido o impacto dessa exposição na percepção do cliente sobre a equipe e concordou-se em adotar uma abordagem mais focada nos resultados alcançados durante as próximas revisões de sprint.
+
+**Melhoria na Apresentação dos Itens do Backlog:**
+O cliente expressou o desejo de que os itens do backlog fossem apresentados de forma mais abrangente durante a revisão da sprint, utilizando melhor o tempo disponível. A equipe concordou em revisar a forma como os itens do backlog são apresentados, garantindo uma abordagem mais abrangente e eficiente.
+
+**Ações para o Próximo Sprint:**
+1. Focar nas realizações e resultados alcançados durante a apresentação dos incrementos do produto.
+2. Revisar a forma como os itens do backlog são apresentados, garantindo uma abordagem mais abrangente e eficiente.
+3. Limitar a exposição das dificuldades internas da equipe durante a revisão da sprint, priorizando os resultados alcançados.
+
+**Próxima Sprint:**
+A equipe está comprometida em implementar as ações acordadas durante a Sprint Review e está ansiosa para iniciar a próxima sprint com as lições aprendidas desta revisão.
+
+Este documento foi elaborado com base nas discussões e decisões tomadas durante a Sprint Review.
 
 ##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
