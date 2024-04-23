@@ -37,9 +37,13 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 | Alta :red_square:      | Integração Trello-GitHub                | Como equipe de desenvolvimento, desejo integrar o Trello ao GitHub para gerenciar o backlog do produto.               | ► Utilização do Trello para gerenciar o backlog do produto. <br>► Adição de links para problemas do GitHub em cada cartão no Trello. <br>► Movimentação dos cartões conforme o progresso das tarefas. <br>► Adição de links do pull request ao cartão no Trello. <br>► Monitoramento do progresso das tarefas no Trello. |
 | Alta :red_square:      | Tecnologias Utilizadas                  | Como equipe de desenvolvimento, desejo utilizar as tecnologias especificadas para o desenvolvimento do sistema.      | ► Utilização de JavaScript no front end e back end. <br>► Utilização de HTML e CSS para marcação e estilos. <br>► Visual responsivo utilizando CSS media queries. <br>► Prototipação de telas no Figma. <br>► Persistência dos dados no SGBD PostgreSQL. |
 
-# :chart_with_downwards_trend: Gráfico Burndown (17/04/2024)
+# :chart_with_downwards_trend: Gráfico Burndown das Sprints
 
-[![Gráfico Burndown](misc/Burndown%20Sprint%201.jpg)](misc/Burndown%20Sprint%201.jpg)
+| Burndown    | Link de Acesso |
+|--------------------------------------------|--------------------------------------------------------------|
+| :green_square: Sprint 1 (Concluída)        | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
+| :yellow_square: Sprint 2 (Em Andamento)    | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
+| :red_square: Sprint 3 (Pendente)           | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
 
 # :bust_in_silhouette: User Stories
 
