@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>
-<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="https://trello.com/b/AgDfKI0v/golden-hive-solutions">Trello</a> | <a  href="#bust_in_silhouette-user-stories">User Story</a> | <a  href="#triangular_flag_on_post-backlog-do-produto">Backlog do Produto</a> | <a  href="#chart_with_downwards_trend-gráfico-burndown-17042024">Burndown</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="Requisitos de Cliente 1DSM - 2024-1.pdf">Requisitos</a>
+<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="https://trello.com/b/AgDfKI0v/golden-hive-solutions">Trello</a> | <a  href="#bust_in_silhouette-user-stories">User Story</a> | <a  href="#triangular_flag_on_post-backlog-do-produto">Backlog do Produto</a> | <a  href="#chart_with_downwards_trend-gráfico-burndown-das-sprints">Burndown</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="Requisitos de Cliente 1DSM - 2024-1.pdf">Requisitos</a>
 </h1>
 </div>
 
@@ -41,7 +41,7 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 
 | Burndown    | Link de Acesso |
 |--------------------------------------------|--------------------------------------------------------------|
-| :green_square: Sprint 1 (Concluída)        | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
+| :green_square: Sprint 1 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS1.jpg)        |
 | :yellow_square: Sprint 2 (Em Andamento)    | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
 | :red_square: Sprint 3 (Pendente)           | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
 
