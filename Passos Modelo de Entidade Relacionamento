@@ -1,0 +1,113 @@
+Entidades e Atributos
+
+1-Usuário
+ID_Usuário: chave primária, identificador único do usuário.
+Nome: nome do usuário.
+Email: email do usuário, usado para login e comunicação.
+Senha: senha para acesso ao sistema.
+
+2-Curso
+ID_Curso: chave primária, identificador único do curso.
+Nome_Curso: nome do curso, por exemplo, "Fundamentos do Scrum".
+Descrição: breve descrição do curso.
+Conteúdo: material do curso.
+
+3 -Módulo
+ID_Módulo: chave primária, identificador único de cada módulo do curso.
+ID_Curso: chave estrangeira, referência ao curso ao qual o módulo pertence.
+Nome_Módulo: título do módulo.
+Conteúdo: detalhes e material educativo do módulo.
+
+4 -Avaliação
+ID_Avaliação: chave primária, identificador único da avaliação.
+ID_Curso: chave estrangeira, referência ao curso que a avaliação pertence.
+Descrição: descrição ou instruções da avaliação.
+
+5 -Resposta
+ID_Resposta: chave primária, identificador único da resposta.
+ID_Avaliação: chave estrangeira, vincula à avaliação.
+ID_Usuário: chave estrangeira, identifica o usuário que respondeu.
+Resposta: conteúdo da resposta do usuário.
+
+6 -Certificado
+ID_Certificado: chave primária, identificador único do certificado.
+ID_Usuário: chave estrangeira, vincula ao usuário que obteve o certificado.
+ID_Curso: chave estrangeira, vincula ao curso pelo qual o certificado foi emitido.
+Data_Emissão: data em que o certificado foi gerado.
+Pontuação: pontuação final obtida pelo usuário no curso.
+
+Relacionamentos
+
+1-Usuário-Curso (Inscrição)
+Usuários podem se inscrever em múltiplos cursos e cada curso pode ter múltiplos usuários inscritos. Esse relacionamento é muitos-para-muitos.
+Atributos adicionais podem incluir Data_Inscrição para registrar quando um usuário se inscreveu no curso.
+
+2-Curso-Módulo
+
+Um curso contém vários módulos, mas cada módulo pertence a apenas um curso. Esse é um relacionamento um-para-muitos.
+
+3-Módulo-Avaliação
+Cada módulo pode ter uma ou mais avaliações associadas, formando um relacionamento um-para-muitos.
+
+4-Avaliação-Resposta
+Cada avaliação pode ter várias respostas de diferentes usuários. Este é um relacionamento um-para-muitos, com cada resposta vinculada a um único usuário e uma única avaliação.
+
+5 -Usuário-Resposta
+Um usuário pode responder a várias avaliações (uma resposta por avaliação), mas cada resposta é dada por apenas um usuário. Relacionamento muitos-para-um.
+
+6-Curso-Certificado
+Cada curso pode gerar certificados para vários usuários, e cada certificado é emitido a partir de um único curso. Relacionamento um-para-muitos.
+
+7-Usuário-Certificado
+
+Um usuário pode receber vários certificados, mas cada certificado é emitido para um único usuário. Relacionamento um-para-muitos.
+
+Considerações Adicionais
+Segurança: É importante garantir a segurança das informações dos usuários, especialmente para dados sensíveis como senha.
+
+Usabilidade: Considerando que o foco é criar uma plataforma intuitiva e acessível, a experiência do usuário deve ser priorizada na interface e no design da aplicação.
+
+Performance: Dependendo do tamanho do público-alvo, a escalabilidade do banco de dados e o desempenho da aplicação devem ser considerados para suportar múltiplos acessos simultâneos.
+
+Este modelo ER oferece uma estrutura básica que pode ser ajustada ou expandida conforme as necessidades específicas do projeto e os feedbacks dos usuários finais.
+
+
+Passos para Criar o Diagrama ER
+
+1-Desenhar as Entidades
+
+Represente cada entidade (Usuário, Curso, Módulo, Avaliação, Resposta, Certificado) como um retângulo.
+Dentro de cada retângulo, liste os atributos. Por exemplo, para Usuário inclua ID_Usuário, Nome, Email, Senha.
+
+2 -Definir Chaves Primárias e Estrangeiras
+
+Sublinhe as chaves primárias de cada entidade para destacá-las.
+Indique chaves estrangeiras com uma notação especial (por exemplo, um asterisco) ou simplesmente referencie a entidade relacionada.
+
+3-Estabelecer Relacionamentos
+
+Use linhas para conectar as entidades que têm relações. Por exemplo, uma linha do Usuário para Curso indicando uma relação muitos-para-muitos.
+Adicione um losango no meio da linha para relações muitos-para-muitos, e descreva o relacionamento, como Inscrição.
+
+4- Adicionar Cardinalidade
+
+Ao lado de cada linha, adicione a cardinalidade do relacionamento (1:1, 1:N, N:1, N:M). Por exemplo, Usuário para Resposta seria 1:N, indicando que um usuário pode ter várias respostas, mas cada resposta é de um único usuário.
+
+5-Organizar o Diagrama
+
+Organize os retângulos e as linhas para minimizar cruzamentos e melhorar a clareza. Entidades frequentemente relacionadas devem estar mais próximas uma das outras.
+
+Exemplo de Como Arranjar as Entidades
+
+Coloque Usuário no centro, pois se relaciona com muitas outras entidades.
+
+Curso pode ser colocado acima de Usuário, conectado por uma linha que atravessa um losango marcado como Inscrição.
+
+Módulo e Avaliação podem ser colocados à direita de Curso, mostrando que são parte do curso.
+
+Resposta e Certificado podem ser colocados abaixo de Usuário, indicando que estes derivam de interações do usuário com o curso.
+
+Após seguir estes passos, você terá um diagrama ER básico que ilustra o sistema de aprendizado Scrum. Isso será útil tanto para desenvolvimento quanto para explicar o sistema para stakeholders.
+
+
+
