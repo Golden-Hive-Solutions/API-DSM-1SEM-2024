@@ -55,7 +55,6 @@ ul li ul.dropdown {
 }
 ul li a:hover {
   background: #ffa800;
-  border: 1px solid black;
 }
 ul li:hover ul.dropdown {
   display: block;
@@ -196,6 +195,8 @@ hr {
 }
 .subContent-section4 {
   display: flex;
+  align-items: stretch;
+  justify-content: center;
 }
 
 .buttons-content4 {
