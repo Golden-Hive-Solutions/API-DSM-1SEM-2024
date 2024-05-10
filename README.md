@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>
-<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="#paperclip-quadro-de-tarefas-trello">Trello</a> | <a  href="#bust_in_silhouette-user-stories">User Story</a> | <a  href="#triangular_flag_on_post-backlog-do-produto">Backlog do Produto</a> | <a  href="#chart_with_downwards_trend-gráfico-burndown-08042024">Burndown</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="#scroll-requisitos-do-cliente">Requisitos</a>
+<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="https://trello.com/b/AgDfKI0v/golden-hive-solutions">Trello</a> | <a  href="#bust_in_silhouette-user-stories">User Story</a> | <a  href="#triangular_flag_on_post-backlog-do-produto">Backlog do Produto</a> | <a  href="#chart_with_downwards_trend-gráfico-burndown-das-sprints">Burndown</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="Requisitos de Cliente 1DSM - 2024-1.pdf">Requisitos</a>
 </h1>
 </div>
 
@@ -16,15 +16,15 @@
 
 Os entregáveis serão realizados conforme as datas previamente acordadas com o cliente, acompanhados de um relatório completo do progresso alcançado durante as sprints.
 
-| Sprint  | Previsão de Entrega   | Status                        | Histórico                                      |
-| ------- | --------------------- | ----------------------------- | ---------------------------------------------- |
-| :one:   | :calendar: 17/04/2024 | :yellow_square: Em Andamento | :round_pushpin: [Ver Relatório](./misc/sprintbacklog01.md) |
-| :two:   | :calendar: 15/05/2024 | :red_square: Pendente | :round_pushpin: [Ver Relatório](./Sprint02.md) |
-| :three: | :calendar: 12/06/2024 | :red_square: Pendente | :round_pushpin: [Ver Relatório](./sprint03.md) |
+| Sprint  | Previsão de Entrega   | Status                      | Backlog das Sprints                                       | Retrospectiva das Sprints
+| ------- | --------------------- | --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------- |
+| :one:   | :calendar: 17/04/2024 | :green_square: Concluído    | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md) | :round_pushpin: [Concluído](./misc/sprintretrospective1.md)   |
+| :two:   | :calendar: 15/05/2024 | :yellow_square: Em Produção | :round_pushpin: [Ver Relatório](./misc/sprintbacklog2.md) | :round_pushpin: [Pendente](./misc/sprintbacklog2.md)          |
+| :three: | :calendar: 12/06/2024 | :red_square: Pendente       | :round_pushpin: [Ver Relatório](./misc/sprintbacklog3.md) | :round_pushpin: [Pendente](./misc/sprintbacklog3.md)          |
 
 # :triangular_flag_on_post: Backlog do Produto
 
-| Prioridade | Task                                      | User Story                                                   | Critérios de Aceitação                                                                                                                                                                     |
+| Prioridade | Task                                      | User Story                                                   | Definition of Done                                                                                                                                                                     |
 |------------|-------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Alta :red_square:       | Cadastro de Usuário                      | Como cliente, desejo que meus colaboradores possam se cadastrar no sistema fornecendo seus nomes completos e e-mails.   | ► Formulário de cadastro com campos para nome completo e e-mail. <br>► Validação dos campos de entrada. <br>► Armazenamento dos dados do colaborador no banco de dados. <br>► Mensagem de confirmação após o cadastro bem-sucedido. |
 | Alta :red_square:       | Login de Usuário                         | Como cliente, desejo que meus colaboradores possam fazer login no sistema usando apenas seus e-mails.                    | ► Campo de entrada para e-mail. <br>► Validação do e-mail. <br>► Verificação da existência do e-mail no banco de dados. <br>► Autenticação bem-sucedida para colaboradores cadastrados.            |
@@ -37,17 +37,13 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 | Alta :red_square:      | Integração Trello-GitHub                | Como equipe de desenvolvimento, desejo integrar o Trello ao GitHub para gerenciar o backlog do produto.               | ► Utilização do Trello para gerenciar o backlog do produto. <br>► Adição de links para problemas do GitHub em cada cartão no Trello. <br>► Movimentação dos cartões conforme o progresso das tarefas. <br>► Adição de links do pull request ao cartão no Trello. <br>► Monitoramento do progresso das tarefas no Trello. |
 | Alta :red_square:      | Tecnologias Utilizadas                  | Como equipe de desenvolvimento, desejo utilizar as tecnologias especificadas para o desenvolvimento do sistema.      | ► Utilização de JavaScript no front end e back end. <br>► Utilização de HTML e CSS para marcação e estilos. <br>► Visual responsivo utilizando CSS media queries. <br>► Prototipação de telas no Figma. <br>► Persistência dos dados no SGBD PostgreSQL. |
 
-# :chart_with_downwards_trend: Gráfico Burndown (08/04/2024)
+# :chart_with_downwards_trend: Gráfico Burndown das Sprints
 
-[![Gráfico Burndown](/misc/Gráfico%20Burndown%2008-04-2024.png)](/misc/Gráfico%20Burndown%2008-04-2024.png)
-
-# :paperclip: Quadro de Tarefas (Trello)
-
-<a  href="https://trello.com/b/AgDfKI0v/golden-hive-solutions">**Clique Aqui**</a>
-
-# :scroll: Requisitos do Cliente
-
-<a  href="Requisitos de Cliente 1DSM - 2024-1.pdf">**Clique Aqui**</a>
+| Burndown    | Link de Acesso |
+|--------------------------------------------|--------------------------------------------------------------|
+| :green_square: Sprint 1 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS1.jpg)        |
+| :yellow_square: Sprint 2 (Em Andamento)    | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
+| :red_square: Sprint 3 (Pendente)           | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
 
 # :bust_in_silhouette: User Stories
 
@@ -69,27 +65,22 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgre](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## :computer: Instalação
-
-Você precisa ter o [VsCode](https://code.visualstudio.com/download) para rodar o projeto.
-
 ## :page_facing_up: Wireframe
 
 [![Wireframe](./prototipagem/Protótipo%20do%20Wireframe.png)](./prototipagem/Protótipo%20do%20Wireframe.png)
-<a  href="/prototipagem/">**Clique Aqui**</a>
+<h2><a  href="/prototipagem/">► Clique Aqui para Acessar Todas as Páginas do Wireframe ◄</a></h2>
 
 ## :busts_in_silhouette: Equipe
 
-| Função        | Nome                              | LinkedIn & GitHub                                                                                                                                                                                                                                                                                                                |
-| ------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Project Owner | Victor Hugo Dantas Carbajo                     | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Carbajo) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                                    |
-| Scrum Master  | Lucas Roque Alvim Cruz                | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasroqe) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                |
-| Dev Team      | Gabriel Lima Cavalcante de Souza          | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielLimaDSM) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                             |
-| Dev Team      | Kainé Rogers de Moura Sant'anna  | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usahime) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                  |
-| Dev Team      | Vinícius de Luca Fujarra de Souza           | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/befujarra) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                 |
-| Dev Team      | Marcos Paulo de Souza           | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/marcospaulo27) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                 |
-| Dev Team      | Maurício Oliveira Medeiros Cepinho     | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maucepinho) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/) |
-| Dev Team      | Gabriel Rodrigues de Paula | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel0067) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                          |
-| Dev Team      | Guilherme Antunes de Castro | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CastroRnb) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)                           |
+| Função        | Nome                               | GitHub                                                                                                                                        |
+| ------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Owner | Victor Hugo Dantas Carbajo         | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Carbajo)    |
+| Scrum Master  | Lucas Roque Alvim Cruz             | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasroqe)         |
+| Dev Team      | Gabriel Lima Cavalcante de Souza   | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielLimaDSM)    |
+| Dev Team      | Kainé Rogers de Moura Sant'anna    | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usahime)           |
+| Dev Team      | Vinícius de Luca Fujarra de Souza  | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/befujarra)         |
+| Dev Team      | Marcos Paulo de Souza              | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/marcospaulo27) |
+| Dev Team      | Maurício Oliveira Medeiros Cepinho | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maucepinho)        |
+| Dev Team      | Gabriel Rodrigues de Paula         | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel0067)       |
 
 ##### [:rocket: Voltar ao topo ](#bookmark_tabs-entregas-de-sprints)
