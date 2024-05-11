@@ -1,13 +1,24 @@
 const { pool } = require("./bd.js");
 
 async function listar(req, res) {
-  // Procura na tbusuario o 1o registro que satisfaz as condições
-  let resposta = await pool.query(
-    "SELECT idquestao,enunciado FROM tbquestao ORDER BY enunciado"
-  );
+  try {
+    //Fetches the necessary info from the server
+    const resposta = await pool.query(
+      "SELECT idquestao, enunciado, resposta FROM tbquestao ORDER BY enunciado"
+    );
 
-  return res.json(resposta.rows);
+    //Creates and array with the info from the tbquestao
+    const questoes = resposta.rows.map(row => ({
+      idquestao: row.idquestao,
+      enunciado: row.enunciado,
+      resposta: row.resposta
+    }));
+
+    res.json(questoes);
+  } catch (error) {
+    console.error("Erro:", error);
+    res.status(500).json({ error: "Erro ao buscar questões." });
+  }
 }
 
-// Exporta as funções
 module.exports = { listar };
