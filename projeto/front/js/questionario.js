@@ -98,7 +98,7 @@ function correctingResponses() {
   if (sum >= 14)
     alert("YIPEEEEEEEEE!!!")
   else
-    alert("kys stupid")
+    alert("You failed :(")
   console.log("Total correct answers:", sum);
   
 }
