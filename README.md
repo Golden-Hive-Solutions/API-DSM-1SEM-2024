@@ -17,10 +17,10 @@
 Os entregáveis serão realizados conforme as datas previamente acordadas com o cliente, acompanhados de um relatório completo do progresso alcançado durante as sprints.
 
 | Sprint  | Previsão de Entrega   | Status                      | Backlog das Sprints                                       | Retrospectiva das Sprints
-| ------- | --------------------- | --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------- |
-| :one:   | :calendar: 17/04/2024 | :green_square: Concluído    | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md) | :round_pushpin: [Concluído](./misc/sprintretrospective1.md)   |
-| :two:   | :calendar: 15/05/2024 | :yellow_square: Em Produção | :round_pushpin: [Ver Relatório](./misc/sprintbacklog2.md) | :round_pushpin: [Pendente](./misc/sprintbacklog2.md)          |
-| :three: | :calendar: 12/06/2024 | :red_square: Pendente       | :round_pushpin: [Ver Relatório](./misc/sprintbacklog3.md) | :round_pushpin: [Pendente](./misc/sprintbacklog3.md)          |
+| ------- | --------------------- | --------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------- |
+| :one:   | :calendar: 17/04/2024 | :green_square: Concluído          | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md) | :round_pushpin: [Concluído](./misc/sprintretrospective1.md)   |
+| :two:   | :calendar: 15/05/2024 | :green_square: Concluído          | :round_pushpin: [Ver Relatório](./misc/sprintbacklog2.md) | :round_pushpin: [Pendente](./misc/sprintbacklog2.md)          |
+| :three: | :calendar: 12/06/2024 | :yellow_square: Em Andamento      | :round_pushpin: [Ver Relatório](./misc/sprintbacklog3.md) | :round_pushpin: [Pendente](./misc/sprintbacklog3.md)          |
 
 # :triangular_flag_on_post: Backlog do Produto
 
@@ -42,7 +42,7 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 | Burndown    | Link de Acesso |
 |--------------------------------------------|--------------------------------------------------------------|
 | :green_square: Sprint 1 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS1.jpg)        |
-| :yellow_square: Sprint 2 (Em Andamento)    | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
+| :green_square: Sprint 2 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS2.jpg)        |
 | :red_square: Sprint 3 (Pendente)           | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
 
 # :bust_in_silhouette: User Stories
