@@ -25,7 +25,7 @@
 
 # :dart: Objetivo da Sprint
 
-- Implementar a estrutura fundamental do projeto, incluindo a funcionalidade de salvar pontuações, obter questões no front-end, garantir a navegabilidade entre telas e a organização adequada do código HTML, CSS e JavaScript. Além disso, abordamos a responsividade visual, a modelagem E-R e finalizamos os processos de integração com o GitHub para pull requests e consultas para inserir e listar registros no banco de dados.
+Implementar a estrutura fundamental do projeto, incluindo a funcionalidade de salvar pontuações, obter questões no front-end, garantir a navegabilidade entre telas e a organização adequada do código HTML, CSS e JavaScript. Além disso, abordamos a responsividade visual, a modelagem E-R e finalizamos os processos de integração com o GitHub para pull requests e consultas para inserir e listar registros no banco de dados.
 
 # :triangular_flag_on_post: Backlog da Sprint
 
@@ -50,16 +50,15 @@
 # :hotsprings: Retrospectiva da Sprint
 
 **Pontos Positivos:**
-1. **Entregas Concluídas:** A equipe conseguiu completar todas as atividades planejadas para esta sprint, o que demonstra um bom comprometimento e capacidade de entrega.
-2. **GitHub e Trello Atualizados:** Todos os registros no GitHub e no Trello foram atualizados conforme as entregas da sprint, garantindo transparência e organização no processo.
-3. **Protótipos das Telas:** Os protótipos das telas foram concluídos no Figma e algumas telas já foram recriadas utilizando HTML5 e CSS3, o que fornece uma direção clara para o desenvolvimento e ajuda na comunicação visual do projeto.
+1. **Implementação da Estrutura Fundamental:** A equipe conseguiu implementar com sucesso a estrutura fundamental do projeto, incluindo funcionalidades importantes como salvar pontuações, obter questões no front-end e garantir a navegabilidade entre telas.
+2. **Organização do Código:** Houve um foco adequado na organização do código HTML, CSS e JavaScript, o que promove a manutenibilidade e escalabilidade do projeto.
+3. **Responsividade Visual e Modelagem E-R:** A responsividade visual foi abordada de forma eficiente, garantindo uma experiência consistente em diferentes dispositivos. Além disso, a modelagem E-R foi concluída, estabelecendo uma estrutura de dados sólida para o projeto.
+4. **Integração com GitHub:** Os processos de integração com o GitHub foram finalizados com sucesso, facilitando o controle de versão, pull requests e consultas para inserir e listar registros no banco de dados.
 
-**Pontos a Melhorar:**
-1. **Desistência de Membros:** A desistência de dois membros da equipe pode ter impactado a dinâmica e a carga de trabalho dos demais.
-2. **Dificuldades com Estilização CSS:** A dificuldade em estilizar as páginas HTML com CSS é um desafio comum, mas pode ser superado com mais prática e talvez revisão de conceitos.
-3. **Comunicação com o Banco de Dados:** A dificuldade em fazer com que o banco de dados se comunicasse com as páginas do site é um obstáculo técnico significativo. No entanto, estamos estudando para que possamos entender como essas interações funcionam na prática e, consequentemente, melhorar o processo.
+**Feedback do Time de Desenvolvimento:**
+O Time de Desenvolvimento não relatou nenhum problema durante o processo de desenvolvimento. Informaram que foi um processo fluido e que as poucas dúvidas que surgiram ao longo do caminho foram facilmente resolvidas após breves pesquisas sobre o assunto na Internet.
 
-Em geral, a sprint teve um desempenho satisfatório, mas há áreas específicas que podem ser aprimoradas para aumentar a eficiência e o sucesso das futuras iterações do projeto.
+Em resumo, a sprint foi bem-sucedida na implementação dos objetivos estabelecidos.
 
 # :pushpin: Review da Sprint
 
@@ -77,27 +76,16 @@ Em geral, a sprint teve um desempenho satisfatório, mas há áreas específicas
 5. Ações para o Próximo Sprint
 
 **Resumo:**
-A Sprint Review foi realizada com sucesso, com a participação ativa dos stakeholders e do Scrum Team. Durante a reunião, foram apresentados os incrementos do produto desenvolvidos durante o sprint, seguidos por um feedback por parte do cliente.
+A Sprint Review foi realizada com sucesso, com a participação ativa do cliente e do Scrum Team. Durante a reunião, foram apresentados os incrementos do produto desenvolvidos durante o sprint, seguidos por um feedback por parte do cliente.
 
 **Apresentação dos Incrementos do Produto:**
 Durante a apresentação dos incrementos do produto, foi destacado o progresso feito pela equipe durante o sprint. O cliente expressou satisfação com os resultados apresentados, reconhecendo o valor dos incrementos desenvolvidos.
 
-**Feedback dos Stakeholders:**
-O cliente expressou satisfação com os incrementos apresentados, destacando sua utilidade e qualidade. No entanto, houve críticas em relação à exposição das dificuldades enfrentadas pela equipe durante o processo de desenvolvimento. O cliente sugeriu que futuras apresentações devem se concentrar mais nos resultados alcançados, evitando expor as dificuldades internas da equipe.
-
-**Discussão sobre Exposição das Dificuldades da Equipe:**
-A equipe reconheceu a crítica do cliente em relação à exposição das dificuldades da equipe durante a apresentação. Foi discutido o impacto dessa exposição na percepção do cliente sobre a equipe e concordou-se em adotar uma abordagem mais focada nos resultados alcançados durante as próximas revisões de sprint.
-
-**Melhoria na Apresentação dos Itens do Backlog:**
-O cliente expressou o desejo de que os itens do backlog fossem apresentados de forma mais abrangente durante a revisão da sprint, utilizando melhor o tempo disponível. A equipe concordou em revisar a forma como os itens do backlog são apresentados, garantindo uma abordagem mais abrangente e eficiente.
+**Feedback do Cliente:**
+O cliente elogiou a apresentação do grupo e a demonstração do produto. A equipe conseguiu responder todas as perguntas feitas pelo cliente com confiança, transmitindo credibilidade. 
 
 **Ações para o Próximo Sprint:**
-1. Focar nas realizações e resultados alcançados durante a apresentação dos incrementos do produto.
-2. Revisar a forma como os itens do backlog são apresentados, garantindo uma abordagem mais abrangente e eficiente.
-3. Limitar a exposição das dificuldades internas da equipe durante a revisão da sprint, priorizando os resultados alcançados.
-
-**Próxima Sprint:**
-A equipe está comprometida em implementar as ações acordadas durante a Sprint Review e está ansiosa para iniciar a próxima sprint com as lições aprendidas desta revisão.
+1. Finalizar o projeto no prazo determinado com todas as funcionalidades solicitadas e colocá-lo para rodar na Internet.
 
 Este documento foi elaborado com base nas discussões e decisões tomadas durante a Sprint Review.
 
