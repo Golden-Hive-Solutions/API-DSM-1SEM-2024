@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### :clapper: [Vídeo da Segunda Sprint](https://www.youtube.com/watch?v=FN56CLTitO8)
+### :clapper: [Vídeo da Segunda Sprint](https://www.youtube.com/watch?v=kCPXG47-MBU)
 
 </div>
 
