@@ -1,0 +1,78 @@
+CREATE TABLE tbUsuario (
+  id_usuario INT NOT NULL,
+  nome VARCHAR(255) NULL,
+  email VARCHAR(255) NULL,
+  PRIMARY KEY(id_usuario)
+);
+
+CREATE TABLE tbCertificado (
+  id_usuario INT NOT NULL,
+  data_avaliacao TIMESTAMP NULL,
+  score DECIMAL(5,2) NULL,
+  PRIMARY KEY(id_usuario),
+  CONSTRAINT fk_usuario
+      FOREIGN KEY(id_usuario) 
+        REFERENCES tbUsuario(id_usuario)
+);
+
+CREATE TABLE tbQuestao (
+  id_questao INT NOT NULL,
+  enunciado TEXT NULL,
+  resposta_correta BOOL NULL,
+  PRIMARY KEY(id_questao)
+);
+
+CREATE TABLE tbCertificadoQuestao (
+  id_usuario INT NOT NULL,
+  id_questao INT NOT NULL,
+  resposta_usuario BOOL NULL,
+  PRIMARY KEY(id_usuario, id_questao),
+  CONSTRAINT fk_certificado
+      FOREIGN KEY(id_usuario) 
+        REFERENCES tbCertificado(id_usuario),
+  CONSTRAINT fk_questao
+      FOREIGN KEY(id_questao) 
+        REFERENCES tbQuestao(id_questao)
+);
+
+-- Inserir dados na tabela tbUsuario
+INSERT INTO tbUsuario (id_usuario, nome, email) VALUES (1, 'João Silva', 'joao@example.com');
+INSERT INTO tbUsuario (id_usuario, nome, email) VALUES (2, 'Maria Souza', 'maria@example.com');
+
+-- Inserir dados na tabela tbCertificado
+INSERT INTO tbCertificado (id_usuario, data_avaliacao, score) VALUES (1, '2024-05-01 10:00:00', 88.5);
+INSERT INTO tbCertificado (id_usuario, data_avaliacao, score) VALUES (2, '2024-05-02 11:00:00', 92.3);
+
+-- Inserir dados na tabela tbQuestao
+INSERT INTO tbQuestao (id_questao, enunciado, resposta_correta) VALUES (1, 'Conforme a metodologia Scrum, na possibilidade de diversos incrementos sejam criados em uma sprint, um deles pode ser entregue aos stakeholders antes da conclusão da sprint.', TRUE);
+INSERT INTO tbQuestao (id_questao, enunciado, resposta_correta) VALUES (2, 'De acordo com o Scrum, durante uma sprint planning, para cada item do product backlog selecionado, cabe ao product owner planejar o trabalho necessário para criar um incremento de valor que atenda à forma como isso será feito.', FALSE);
+
+-- Inserir dados na tabela tbCertificadoQuestao
+INSERT INTO tbCertificadoQuestao (id_usuario, id_questao, resposta_usuario) VALUES (1, 1, TRUE);
+INSERT INTO tbCertificadoQuestao (id_usuario, id_questao, resposta_usuario) VALUES (1, 2, FALSE);
+INSERT INTO tbCertificadoQuestao (id_usuario, id_questao, resposta_usuario) VALUES (2, 1, TRUE);
+INSERT INTO tbCertificadoQuestao (id_usuario, id_questao, resposta_usuario) VALUES (2, 2, TRUE);
+
+UPDATE tbUsuario
+SET nome = 'João Pereira', email = 'joaopereira@example.com'
+WHERE id_usuario = 1;
+
+
+UPDATE tbCertificado
+SET data_avaliacao = '2024-05-01 09:00:00', score = 95.00
+WHERE id_usuario = 1;
+
+UPDATE tbQuestao
+SET enunciado = '-O scrum master tem competência para cancelar uma sprint antes de o time-boxed da sprint terminar.?', resposta_correta = FALSE
+WHERE id_questao = 1;
+
+UPDATE tbCertificadoQuestao
+SET resposta_usuario = TRUE
+WHERE id_usuario = 1 AND id_questao = 2;
+
+
+SELECT * FROM tbUsuario WHERE id_usuario = 1;
+SELECT * FROM tbCertificado WHERE id_usuario = 1;
+SELECT * FROM tbQuestao WHERE id_questao = 1;
+SELECT * FROM tbCertificadoQuestao WHERE id_usuario = 1 AND id_questao = 2;
+
