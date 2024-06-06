@@ -4,7 +4,7 @@ const dotenv = require("dotenv");
 dotenv.config();
 
 async function listarQuestao(req, res) {
-  const quantidade = process.env.QUANTIDADE;
+  const quantidade = 20;
 
   const { idusuario } = req.body;
   if (idusuario) {

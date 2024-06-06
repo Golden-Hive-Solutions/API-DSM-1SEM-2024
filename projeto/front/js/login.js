@@ -2,10 +2,8 @@ function logar() {
   const mail = document.getElementById("login-mail").value.trim();
 
   if (!mail || mail.length == 0) {
-    document.getElementsByClassName("msg-erro")[0].innerText = "Forneça o e-mail";
-    document.getElementsByClassName("msg-erro")[0].style.display = "flex";
+    alert("Forneça o e-mail");
   } else {
-    document.getElementsByClassName("msg-erro")[0].style.display = "none";
     const usuario = { mail };
 
     // Configuração da requisição
@@ -23,8 +21,7 @@ function logar() {
     fetch(url, options)
       .then((response) => {
         if (!response.ok) {
-          document.getElementsByClassName("msg-erro")[0].innerText = "Erro na requisição";
-          document.getElementsByClassName("msg-erro")[0].style.display = "flex";
+          alert("Erro na requisição");
         }
         return response.json();
       })
@@ -34,13 +31,11 @@ function logar() {
           window.location.href = "./questionario.html";
         }
         else{
-          document.getElementsByClassName("msg-erro")[0].innerText = data.erro;
-          document.getElementsByClassName("msg-erro")[0].style.display = "flex";
+          alert(data.erro);
         }
       })
       .catch((error) => {
-        document.getElementsByClassName("msg-erro")[0].innerText = error;
-        document.getElementsByClassName("msg-erro")[0].style.display = "flex";
+        console.error("Erro:", error);
       });
   }
 }
