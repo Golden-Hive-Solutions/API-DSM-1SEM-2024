@@ -1,6 +1,8 @@
 function listarQuestao() {
+  // Configuração da requisição
   const url = `${urlbase}/questao`;
 
+  // Submete a requisição
   fetch(url)
     .then((response) => {
       if (!response.ok) {
