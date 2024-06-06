@@ -1,24 +1,38 @@
 const { pool } = require("./bd.js");
 
-async function listar(req, res) {
-  try {
-    //Fetches the necessary info from the server
-    const resposta = await pool.query(
-      "SELECT idquestao, enunciado, resposta FROM tbquestao ORDER BY enunciado"
+const dotenv = require("dotenv");
+dotenv.config();
+
+async function listarQuestao(req, res) {
+  const quantidade = process.env.QUANTIDADE;
+
+  const { idusuario } = req.body;
+  if (idusuario) {
+    // verifica se o usuário possui questionário respondido com nota >= 70%
+    let resposta = await pool.query(
+      `SELECT idquestionario, datahorario, nota
+      FROM tbquestionario
+      WHERE idusuario = $1`,
+      [idusuario]
     );
+    if (resposta.rowCount > 0) {
+      return res.json(resposta.rows[0]);
+    } else {
+      // retorna questões aleatórias
+      resposta = await pool.query(
+        `SELECT idquestao, enunciado 
+        FROM tbquestao 
+        ORDER BY RANDOM() 
+        LIMIT $1`,
+        [quantidade]
+      );
 
-    //Creates and array with the info from the tbquestao
-    const questoes = resposta.rows.map(row => ({
-      idquestao: row.idquestao,
-      enunciado: row.enunciado,
-      resposta: row.resposta
-    }));
-
-    res.json(questoes);
-  } catch (error) {
-    console.error("Erro:", error);
-    res.status(500).json({ error: "Erro ao buscar questões." });
+      return res.json(resposta.rows);
+    }
+  } else {
+    return res.json({ erro: "Efetue o login para continuar." });
   }
 }
 
-module.exports = { listar };
+// Exporta as funções
+module.exports = { listarQuestao };
