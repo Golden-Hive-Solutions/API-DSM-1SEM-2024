@@ -1,3 +1,5 @@
+\\ Criando as tabelas necessárias: tbUsuario, tbCertificado, tbQuestao e tbCertificadoQuestao.
+
 CREATE TABLE tbUsuario (
   id_usuario INT NOT NULL,
   nome VARCHAR(255) NULL,
@@ -35,15 +37,18 @@ CREATE TABLE tbCertificadoQuestao (
         REFERENCES tbQuestao(id_questao)
 );
 
--- Inserir dados na tabela tbUsuario
+\\ Inserir dados na tabela tbUsuario:
+
 INSERT INTO tbUsuario (id_usuario, nome, email) VALUES (1, 'João Silva', 'joao@example.com');
 INSERT INTO tbUsuario (id_usuario, nome, email) VALUES (2, 'Maria Souza', 'maria@example.com');
 
--- Inserir dados na tabela tbCertificado
+\\ Inserir dados na tabela tbCertificado:
+
 INSERT INTO tbCertificado (id_usuario, data_avaliacao, score) VALUES (1, '2024-05-01 10:00:00', 88.5);
 INSERT INTO tbCertificado (id_usuario, data_avaliacao, score) VALUES (2, '2024-05-02 11:00:00', 92.3);
 
--- Inserir dados na tabela tbQuestao
+\\ Inserir dados na tabela tbQuestao: 50 perguntas 
+
 INSERT INTO tbQuestao (id_questao, enunciado, resposta_correta) VALUES (1, 'Conforme a metodologia Scrum, na possibilidade de diversos incrementos sejam criados em uma sprint, um deles pode ser entregue aos stakeholders antes da conclusão da sprint.', TRUE);
 INSERT INTO tbQuestao (id_questao, enunciado, resposta_correta) VALUES (2, 'De acordo com o Scrum, durante uma sprint planning, para cada item do product backlog selecionado, cabe ao product owner planejar o trabalho necessário para criar um incremento de valor que atenda à forma como isso será feito.', FALSE);
 INSERT INTO tbQuestao (id_questao, enunciado, resposta_correta) VALUES (3, 'O scrum master tem competência para cancelar uma sprint antes de o time-boxed da sprint terminar.', FALSE);
@@ -95,29 +100,49 @@ INSERT INTO tbQuestao (id_questao, enunciado, resposta_correta) VALUES (48, 'A f
 INSERT INTO tbQuestao (id_questao, enunciado, resposta_correta) VALUES (49, 'Burndown Chart é um gráfico que mostra o trabalho remanescente no Sprint ao longo do tempo.', TRUE);
 INSERT INTO tbQuestao (id_questao, enunciado, resposta_correta) VALUES (50, 'Os quatro papeis do scrum team são: scrum máster, product owner, manager e developers.', FALSE);
 	
--- Inserir dados na tabela tbCertificadoQuestao
+\\ Inserir dados na tabela tbCertificadoQuestao:
+
 INSERT INTO tbCertificadoQuestao (id_usuario, id_questao, resposta_usuario) VALUES (1, 1, TRUE);
 INSERT INTO tbCertificadoQuestao (id_usuario, id_questao, resposta_usuario) VALUES (1, 2, FALSE);
 INSERT INTO tbCertificadoQuestao (id_usuario, id_questao, resposta_usuario) VALUES (2, 1, TRUE);
 INSERT INTO tbCertificadoQuestao (id_usuario, id_questao, resposta_usuario) VALUES (2, 2, TRUE);
 
+\\ Para atualizar as informações de um usuário na tabela tbUsuario:
+
 UPDATE tbUsuario
 SET nome = 'João Pereira', email = 'joaopereira@example.com'
 WHERE id_usuario = 1;
 
+\\ Para atualizar um certificado na tabela tbCertificado:
 
 UPDATE tbCertificado
 SET data_avaliacao = '2024-05-01 09:00:00', score = 95.00
 WHERE id_usuario = 1;
 
+\\ Para atualizar uma questão na tabela tbQuestao:
+
 UPDATE tbQuestao
 SET enunciado = '-O scrum master tem competência para cancelar uma sprint antes de o time-boxed da sprint terminar.?', resposta_correta = FALSE
 WHERE id_questao = 1;
+
+\\ Atualizar uma resposta de usuário para uma questão na tabela tbCertificadoQuestao
 
 UPDATE tbCertificadoQuestao
 SET resposta_usuario = TRUE
 WHERE id_usuario = 1 AND id_questao = 2;
 
+\\ Deletar um usuário específico na tabela tbUsuario e todos os registros relacionados:
+
+DELETE FROM tbCertificadoQuestao WHERE id_usuario = 1;
+DELETE FROM tbCertificado WHERE id_usuario = 1;
+DELETE FROM tbUsuario WHERE id_usuario = 1;
+
+\\ Deletar uma questão específica na tabela tbQuestao e todos os registros relacionados:
+
+DELETE FROM tbCertificadoQuestao WHERE id_questao = 1;
+DELETE FROM tbQuestao WHERE id_questao = 1;
+
+\\ Verificar se os registros foram atualizados corretamente utilizando consultas:
 
 SELECT * FROM tbUsuario WHERE id_usuario = 1;
 SELECT * FROM tbCertificado WHERE id_usuario = 1;
