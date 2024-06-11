@@ -7,8 +7,7 @@ CREATE TABLE tbUsuario (
   PRIMARY KEY(id_usuario)
 );
 
-\\ Para garantir que os e-mails na tabela tbUsuario sejam únicos (não ter email repetido), colocar UNIQUE (email) no codigo acima ou depois de criada a tabela pode inserir 
-a restrição abaixo:
+\\ Para garantir que os e-mails na tabela tbUsuario sejam únicos (não ter email repetido), colocar a restrição abaixo:
 
 ALTER TABLE tbUsuario
 ADD CONSTRAINT unique_email UNIQUE (email);
