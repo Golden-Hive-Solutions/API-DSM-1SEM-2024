@@ -2,8 +2,12 @@ function exibirMail() {
   let usuario = localStorage.getItem("usuario");
   if (usuario) {
     usuario = JSON.parse(usuario);
-    document.getElementById("mail").innerText = usuario.mail;
+    document.getElementById("nome").innerText = usuario.nome;
   }
+}
+
+function navigate(){
+  window.location.href = "certificado.html";
 }
 
 function listarQuestao() {
