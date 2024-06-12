@@ -10,7 +10,7 @@
 
 “Sistema web desenvolvido pela **Golden Hive Solutions**, com o propósito didático de apresentar a metodologia ágil **Scrum**. A aplicação inclui um formulário de avaliação e a geração de certificados. O foco do projeto foi criar uma plataforma intuitiva e acessível, atendendo às necessidades do usuário final.”
 
-### :pushpin:Status do Projeto: Em Andamento
+### Status do Projeto: Concluído ✔️
 
 # :bookmark_tabs: Entregas de Sprints
 
