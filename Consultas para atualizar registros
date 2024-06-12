@@ -7,10 +7,6 @@ CREATE TABLE tbUsuario (
   PRIMARY KEY(id_usuario)
 );
 
-\\ Para garantir que os e-mails na tabela tbUsuario sejam únicos (não ter email repetido), colocar a restrição abaixo:
-
-ALTER TABLE tbUsuario
-ADD CONSTRAINT unique_email UNIQUE (email);
 
 CREATE TABLE tbCertificado (
   id_usuario INT NOT NULL,
@@ -41,6 +37,14 @@ CREATE TABLE tbCertificadoQuestao (
       FOREIGN KEY(id_questao) 
         REFERENCES tbQuestao(id_questao)
 );
+
+\\ Colocar depois de criar as tabelas porque da erro no pgAdmin
+
+\\ Para garantir que os e-mails na tabela tbUsuario sejam únicos (não ter email repetido), colocar a restrição abaixo:
+
+ALTER TABLE tbUsuario
+ADD CONSTRAINT unique_email UNIQUE (email);
+
 
 \\ Inserir dados na tabela tbUsuario:
 
