@@ -20,7 +20,7 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 | ------- | --------------------- | --------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------- |
 | :one:   | :calendar: 17/04/2024 | :green_square: Concluído          | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md) | :round_pushpin: [Concluído](./misc/sprintretrospective1.md)   |
 | :two:   | :calendar: 15/05/2024 | :green_square: Concluído          | :round_pushpin: [Ver Relatório](./misc/sprintbacklog2.md) | :round_pushpin: [Concluído](./misc/sprintretrospective2.md)   |
-| :three: | :calendar: 12/06/2024 | :green_square: Concluído          | :round_pushpin: [Ver Relatório](./misc/sprintbacklog3.md) | :round_pushpin: [Pendente](./misc/sprintbacklog3.md)          |
+| :three: | :calendar: 12/06/2024 | :green_square: Concluído          | :round_pushpin: [Ver Relatório](./misc/sprintbacklog3.md) | :round_pushpin: [Concluído](./misc/sprintretrospective3.md)   |
 
 # :triangular_flag_on_post: Backlog do Produto
 
@@ -43,7 +43,7 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 |--------------------------------------------|--------------------------------------------------------------|
 | :green_square: Sprint 1 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS1.jpg)        |
 | :green_square: Sprint 2 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS2.jpg)        |
-| :red_square: Sprint 3 (Pendente)           | :round_pushpin: [Ver Relatório](./misc/sprintbacklog1.md)    |
+| :green_square: Sprint 3 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS3.jpg)        |
 
 # :bust_in_silhouette: User Stories
 
