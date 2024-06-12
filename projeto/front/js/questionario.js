@@ -45,7 +45,7 @@ function listarQuestao() {
         } if( data.idquestionario ){
           document.getElementById("saida").innerHTML = `
             <h4>Você já foi aprovado com a nota ${data.nota} no questionário realizado em ${data.datahorario}.</h4>
-            <a href="./respostas.html">Ver o seu questionário</a>
+            <a href="./respostas.html">Ver o seu questionário</a><button class="botao-lgn" onclick="navigate()">Certificado</button>
           `;
         }else {
           let questoes = "";
