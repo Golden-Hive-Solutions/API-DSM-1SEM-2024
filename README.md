@@ -43,7 +43,7 @@ Os entregáveis serão realizados conforme as datas previamente acordadas com o 
 |--------------------------------------------|--------------------------------------------------------------|
 | :green_square: Sprint 1 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS1.jpg)        |
 | :green_square: Sprint 2 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS2.jpg)        |
-| :green_square: Sprint 3 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS3.jpg)        |
+| :green_square: Sprint 3 (Concluída)        | :round_pushpin: [Ver Relatório](/documentos/GBS3.png)        |
 
 # :bust_in_silhouette: User Stories
 
