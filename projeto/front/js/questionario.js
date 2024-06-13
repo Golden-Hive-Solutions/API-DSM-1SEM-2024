@@ -47,6 +47,7 @@ function listarQuestao() {
             <h4>Você já foi aprovado com a nota ${data.nota} no questionário realizado em ${data.datahorario}.</h4>
             <a href="./respostas.html">Ver o seu questionário</a><button class="botao-lgn" onclick="navigate()">Certificado</button>
           `;
+          document.getElementById("botao-logout").remove();
         }else {
           let questoes = "";
           for (i = 0; i < data.length; i++) {
