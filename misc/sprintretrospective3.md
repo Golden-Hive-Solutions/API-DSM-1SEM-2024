@@ -41,19 +41,15 @@ Consolidar a funcionalidade de recuperação de questões respondidas do servido
 # :hotsprings: Retrospectiva da Sprint
 
 **Pontos Positivos:**
-1. **Implementação da Estrutura Fundamental:** A equipe conseguiu implementar com sucesso a estrutura fundamental do projeto, incluindo funcionalidades importantes como salvar pontuações, obter questões no front-end e garantir a navegabilidade entre telas.
-2. **Organização do Código:** Houve um foco adequado na organização do código HTML, CSS e JavaScript, o que promove a manutenibilidade e escalabilidade do projeto.
-3. **Responsividade Visual e Modelagem E-R:** A responsividade visual foi abordada de forma eficiente, garantindo uma experiência consistente em diferentes dispositivos. Além disso, a modelagem E-R foi concluída, estabelecendo uma estrutura de dados sólida para o projeto.
-4. **Integração com GitHub:** Os processos de integração com o GitHub foram finalizados com sucesso, facilitando o controle de versão, pull requests e consultas para inserir e listar registros no banco de dados.
+1. **Funcionalidade do projeto:** A equipe conseguiu finalizar com sucesso toda a funcionalidade do site. Com isso, o usuário consegue navegar normalmente pelo site, além de criar uma conta, realizar login, concluir os módulos e gerar o certificado.
+2. **Organização do GitHub:** Foi possível organizar toda a documentação no GitHub e juntar as funções de cada integrante em uma só branch (main).
 
 **Feedback do Time de Desenvolvimento:**
-O Time de Desenvolvimento não relatou nenhum problema durante o processo de desenvolvimento. Informaram que foi um processo fluido e que as poucas dúvidas que surgiram ao longo do caminho foram facilmente resolvidas após breves pesquisas sobre o assunto na Internet.
-
-Em resumo, a sprint foi bem-sucedida na implementação dos objetivos estabelecidos.
+O Time de Desenvolvimento relatou certas dificuldades para fazer com que o certificado se mantivesse responsivo, dependendo do dispositivo que o usuário utilizará para acessar o site. Além disso, foram relatados pequenos obstáculos encontrados no banco de dados para desenvolver as queries e subir o servidor. Dúvidas que surgiram ao longo da sprint foram sanadas com uma rápida consulta na internet e a ajuda do professor.
 
 # :pushpin: Review da Sprint
 
-**Data:** 16/05/2024
+**Data:** 13/05/2024
 
 **Participantes:**
 - Scrum Team (Product Owner, Scrum Master, Membros do Time de Desenvolvimento)
