@@ -78,11 +78,25 @@ ul li:hover ul.dropdown {
 /*------------------------------------conteudo da pagina----------------------------*/
 
 main{
+  margin-top: 10vh;
   display: flex;
+  flex-direction:column-reverse;
   justify-content: center;
   align-items: center;
 }
 
+.buttons-content a {
+  background-color: rgba(38, 50, 56, 1);
+  border-radius: 4px;
+  border: 1px solid black;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #ffa800;
+}
+.buttons-content a:hover{
+  background-color: #ffa800;
+  color: black;
+}
 /*------------------------------------------rodapé---------------------------------*/
 
 footer {
