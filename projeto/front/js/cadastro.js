@@ -31,7 +31,7 @@ function salvarUsuario() {
       .then((data) => {
         if (data.idusuario) {
           salvarLogin(data);
-          window.location.href = "./questionario.html";
+          window.location.href = "./home.html";
         }
         else{
           alert(data.erro);
